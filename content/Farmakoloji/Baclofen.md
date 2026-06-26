@@ -5,7 +5,6 @@ Baclofen (gaba-b / sosyal disinhibisyon, libido artışı(?), özgüven artış�
 - Aşırı uyarılmışlık & kaçınma PTSD skorları, depresyon, ve anksiyete skorları gelişmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/24525635">R</a>
 
 ### <h1 style="color:lightgreen;">Hayvan</h1>
-- *Baclofen*; sıçan çekirdek akumbensinde(nucleus accumbens, bazal gangliyonlarda yer alan ve dopamin reseptörleri açısından zengin bir beyin alt bölgesidir, ayrıca ödül merkezi olarak bilinir) modafinilin dopamin üzerindeki etkisini arttırmıştır. (8813612)
-/// Ancak GABA-B'nin antidopaminerjik olduğu düşünülmektedir, bundan dolayı bu bulgular (bence) ilginçtir. Çalışmaya dayanarak; baclofen gaba-b autoreseptörlerini aktif eder, ve azalmış GABA salgısına ve dopamin terminalleri üzerinde GABA reseptörlerinin azalmış aktivasyonuna yol açar.
-
-- Ödül yollarında dopamin sinyallemesini modüle etmiştir; striatal dopamin, DOPAC, ve HVA seviyelerinin artışıyla sonuçlanmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/23298">R</a>
+- Modafinilin dopamin üzerindeki etkisini arttırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/8813612/">R</a><br>
+/// Ancak GABA-B'nin antidopaminerjik olduğu düşünülmektedir, bundan dolayı bu bulgular (bence) ilginçtir. Çalışmaya dayanarak; baclofen gaba-b autoreseptörlerini aktif eder, ve azalmış GABA salgısına ve dopamin terminalleri üzerinde GABA reseptörlerinin azalmış aktivasyonuna yol açar.<br>
+- Ödül yollarında dopamin sinyallemesini modüle etmiştir; striatal dopamin, DOPAC<sup>(dopamin metaboliti)</sup>, ve HVA<sup>(dopamin metaboliti)</sup> seviyelerinin artışıyla sonuçlanmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/23298">R</a>
