@@ -1,0 +1,1 @@
+Adenozin reseptörlerinin antagonistidir, kanda vazodilatör etkiler sergiler.

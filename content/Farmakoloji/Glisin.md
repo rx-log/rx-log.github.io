@@ -1,0 +1,1 @@
+Antispastik, antipsikotik, antioksidan ve anti inflamatuvar aktivitelere sahip olabilir. Genel olarak inhibitördür, postsinaptik nöronların inhibisyonunu sağlar.

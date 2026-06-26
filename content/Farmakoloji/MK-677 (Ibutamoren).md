@@ -1,0 +1,1 @@
+Oral olarak aktif olan büyüme hormonu sekretagogudur. Sekretagoglar başka bir maddenin salımını tetikleyen maddelerdir. Ghrelin reseptörü agonistidir. Ghrelin midede üretilen ve salgılanan, açlık hormonu olarak bilinen bir peptit hormonudur. Büyüme hormonu eksikliği ve sarkopeni tedavisinde potansiyel bir tedavi aracıdır. Endojen büyüme hormonu ve IGF-1 salınımını artırır. 
