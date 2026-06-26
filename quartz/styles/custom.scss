@@ -1,3 +1,11 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+.page > #quartz-body {
+    grid-template: "grid-sidebar-left grid-header" "grid-sidebar-left grid-center" "grid-sidebar-left grid-footer" / 320px auto;
+}
+.page > #quartz-body .sidebar.right {
+    display: none;
+    width: 0px;
+}
