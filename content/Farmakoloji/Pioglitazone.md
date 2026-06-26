@@ -1,16 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Depresyon - İnsan Çalışmaları
 - **Depresyon Üzerine Meta Analiz (28031713)**
 	*Pioglitazon*; ya yalnız başına ya da çifte tedavilerle beraber majör depresif bozukluğunun gerilenmesini tetikleyebilir.
