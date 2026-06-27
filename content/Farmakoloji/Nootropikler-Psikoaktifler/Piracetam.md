@@ -1,5 +1,4 @@
 Çalışma mekanizması tamamen bilinir değildir. Çoğunlukla kolinerjik ve glutamaterjik<sup>(görece zayıf AMPA-PAM)</sup> sinyallemeyi geliştirmesinin yanı sıra, kalsiyum-potasyum kanalını modüle ettiğine inanılır.
-<br>
 Henüz kategoriye ilişkin çalışmaları pek dahil etmedim. GÜNCELLENECEK
 <br>
 <h1 style="color:lightgreen;">İnsan</h1>
@@ -18,4 +17,4 @@ Henüz kategoriye ilişkin çalışmaları pek dahil etmedim. GÜNCELLENECEK
 <br>
 <h1 style="color:lightgreen;">Hayvan</h1>
 
-Prefrontal kortekste GABA-B reseptör yoğunluğunu artırmıştır. <a href="https://doi.org/10.1007/s11094-021-02489-8">R</a>
+- Prefrontal kortekste GABA-B reseptör yoğunluğunu artırmıştır. <a href="https://doi.org/10.1007/s11094-021-02489-8">R</a>

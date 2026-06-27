@@ -8,6 +8,6 @@ Baclofen (gaba-b / sosyal disinhibisyon, libido artışı(?), özgüven artış�
 
 - Modafinilin dopamin üzerindeki etkisini arttırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/8813612/">R</a>
 
-<sup>Ancak GABA-B'nin antidopaminerjik olduğu düşünülmektedir, bundan dolayı bu bulgular (bence) ilginçtir. Çalışmaya dayanarak; baclofen gaba-b autoreseptörlerini aktif eder, ve azalmış GABA salgısına ve dopamin terminalleri üzerinde GABA reseptörlerinin azalmış aktivasyonuna yol açar. </sup>
+> <sup>Ancak GABA-B'nin antidopaminerjik olduğu düşünülmektedir, bundan dolayı bu bulgular (bence) ilginçtir. Çalışmaya dayanarak; baclofen gaba-b autoreseptörlerini aktif eder, ve azalmış GABA salgısına ve dopamin terminalleri üzerinde GABA reseptörlerinin azalmış aktivasyonuna yol açar. </sup>
 <br>
 - Ödül yollarında dopamin sinyallemesini modüle etmiştir; striatal dopamin, DOPAC<sup>(dopamin metaboliti)</sup>, ve HVA<sup>(dopamin metaboliti)</sup> seviyelerinin artışıyla sonuçlanmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/23298">R</a>
