@@ -9,12 +9,32 @@ Henüz kategoriye ilişkin çalışmaları pek dahil etmedim. GÜNCELLENECEK
 
 - Otizm üzerine bir çalışmada, atipik antipsikotik ilaçlarla kombine edildiğinde otizm tedavisinde artan bir sinerjist etki göstermiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/17929164/">R</a>
 
-- https://pubmed.ncbi.nlm.nih.gov/14558342/
-
 - Yaygın serebral bozulmada IQ skorlarını artmıştır. Ayrıca günlük 4.8gr, günlük 2.4gr'a kıyasla daha hızlı etki göstermiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/6415738/">R</a>
 
+- DEHB'de davranışsal karakteristikleri, motor koordinasyonu, sürekli, seçici ve bölünmüş dikkati geliştirmiştir. Daha yüksek dozların daha dikkate değer pozitif etkileri öne sürülmüştür. <a href="https://pubmed.ncbi.nlm.nih.gov/15071842/">R</a>
 
+- Retinanın renk ayrımını önemli ölçüde geliştirmiştir<sup>(ağır kranyoserebral travmalardan sonra)</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/14558342/">R</a>
 <br>
 <h1 style="color:lightgreen;">Hayvan</h1>
 
 - Prefrontal kortekste GABA-B reseptör yoğunluğunu artırmıştır. <a href="https://doi.org/10.1007/s11094-021-02489-8">R</a>
+
+
+
+
+
+
+
+
+
+<h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
+- <b style="color:lightpink;">RX:</b> 
+
+- <b style="color:lightpink;">X:</b> 
+
+- <b style="color:lightpink;">Y:</b> 
+
+- <b style="color:lightpink;">Z:</b> 
+
+
+<sup>Taslak tasarımdır. Öncelikle kendi deneyimim, ardından 3 farklı bireyin deneyimleri şeklinde düzenlenecek.</sup>
