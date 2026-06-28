@@ -3,6 +3,8 @@ Birincil olarak erektil disfonksiyon tedavisinde kullanılan bir seçici PDE-5 i
 
 
 <h1 style="color:lightgreen;">İnsan</h1>
+- Lipolizi artırmıştır<sup>?</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/29202488/">R</a>
+
 
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
 

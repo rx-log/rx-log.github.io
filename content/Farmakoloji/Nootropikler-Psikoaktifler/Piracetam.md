@@ -17,6 +17,10 @@ Henüz kategoriye ilişkin çalışmaları pek dahil etmedim. GÜNCELLENECEK
 
 - Plaseboya kıyasla, klasik ve bilgisayarlı algısal-motor görevlerinin önemli ölçüde daha iyi gerçekleştirilmesine neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/785952/">R</a>
 
+- Doza bağlı olarak "kendiliğinden EEG<sup>(elektroensefalografi, beyinle ilişkili elektriksel faaliyetlerinin ölçümü için kullanılır)</sup>" değerlerini azaltmıştır, azalan EEG kompleksitesi beynin fonksiyonel süreçlerinin artan işbirliği olarak yorumlanır. <a href="https://pubmed.ncbi.nlm.nih.gov/10555876/">R</a>
+
+-  14 günlük kullanımın ardından sözlü öğrenmeyi kayda değer biçimde artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/826948/">R</a>
+
 <br>
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
 
@@ -24,11 +28,11 @@ Henüz kategoriye ilişkin çalışmaları pek dahil etmedim. GÜNCELLENECEK
 
 - Oksidatif stresi<sup>/yaşlanmayı</sup> takiben mitokondriyal zar potansiyelini ve ATP üretimini geliştirmiş ve neredeyse tamamen toparlanmasını sağlamıştır. <a href="https://doi.org/10.1038/sj.bjp.0706459">R</a>
 
+- Pasif kaçınma testinde plaseboya ve koline kıyasla daha iyi performans, ek olarak piracetam + kolin kombinasyonu uygulandığında birkaç kat daha yüksek performans sergilemişlerdir. Tek başına hipokampusta kolin seviyelerini %88 artırmış, ve asetilkolin seviyelerini %19 azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/7301036/">R</a>
 
+- Hipokampusta asetilkolin<sup>(ACh)</sup> yararlanımını artırmıştır. Ayrıca yüksek afinite kolin alınımı<sup>(HACU, kolinin hücreye çok etkili biçimde alınması)</sup>oranını artırmıştır<sup>?</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/3594455/">R</a>
 
-
-
-
+- Çoğu kortikal bölgelerde bölgesel serebral glikoz kullanımını/metabolizmasını<sup>(rCMRglu)</sup> kayda değer biçimde artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/3260597/">R</a>
 
 
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
