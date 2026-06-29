@@ -12,6 +12,16 @@
     }
 }
 
+/* İlk paragrafı gizle */
 footer > p:first-of-type {
-  display: deneme;
+    display: none;
+}
+
+/* İlk paragraf gizlendikten sonra footer'a CSS ile yazı ekle */
+footer::after {
+    content: "DENEME";
+    display: block;
+    font-size: 0.9rem;
+    color: var(--gray); /* Quartz'ın renk değişkeni */
+    margin-top: 8px;
 }
