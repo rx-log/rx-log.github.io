@@ -12,6 +12,10 @@
     }
 }
 
+footer {
+    text-align: center;
+}
+
 /* İlk paragrafı gizle */
 footer > p:first-of-type {
     display: none;
@@ -19,7 +23,7 @@ footer > p:first-of-type {
 
 /* İlk paragraf gizlendikten sonra footer'a CSS ile yazı ekle */
 footer::after {
-    content: "DENEME";
+    content: "Bu web sitesinde yer alan tüm içerikler; yalnızca bilimsel, farmakolojik, tıbbi ve eğitimsel bilgilendirme amacıyla hazırlanmıştır.";
     display: block;
     font-size: 0.9rem;
     color: var(--gray); /* Quartz'ın renk değişkeni */
