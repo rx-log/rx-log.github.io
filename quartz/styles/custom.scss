@@ -21,11 +21,62 @@ footer > p:first-of-type {
     display: none;
 }
 
-/* İlk paragraf gizlendikten sonra footer'a CSS ile yazı ekle */
+/* İlk paragraf gizlendikten sonra footer'a parıldayan dinamik yazı ekle */
 footer::after {
     content: "Bu web sitesinde yer alan tüm içerikler; yalnızca bilimsel, farmakolojik, tıbbi ve eğitimsel bilgilendirme amacıyla hazırlanmıştır.";
     display: block;
+    text-align: center;
     font-size: 0.9rem;
-    color: var(--gray); /* Quartz'ın renk değişkeni */
-    margin-top: 8px;
+    margin-top: 12px;
+    padding: 0 1.5rem;
+    text-wrap: balance;
+    line-height: 1.5;
+
+    /* 1. Yeşilimsi ve Pembemsi Renk Geçişi (Gradient) */
+    background: linear-gradient(
+        120deg,
+        #00ff87 0%,   /* Neon Yeşil */
+        #60efff 30%,  /* Turkuaz/Açık Mavi geçişi */
+        #ff00aa 70%,  /* Canlı Pembe/Magenta */
+        #00ff87 100%  /* Döngü için tekrar Yeşil */
+    );
+    background-size: 200% auto; /* Animasyonun yürüyebilmesi için genişliği artırdık */
+
+    /* Renkleri metnin içine hapsetme */
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+
+    /* 2. Parıldama (Neon Glow) Efekti */
+    /* Hem yeşil hem pembe tonlarında katmanlı bir dış ışık efekti verdik */
+    filter: drop-shadow(0 0 8px rgba(0, 255, 135, 0.3))
+    drop-shadow(0 0 20px rgba(255, 0, 170, 0.2));
+
+    /* 3. Animasyonları Tanımlama (Hem renkler dönecek hem ışık nefes alacak) */
+    animation:
+    shimmerFlow 6s linear infinite,
+    pulseGlow 3s ease-in-out infinite alternate;
+}
+
+/* RENK AKIŞI ANİMASYONU: Renklerin soldan sağa doğru kaymasını sağlar */
+@keyframes shimmerFlow {
+    0% {
+        background-position: 0% 50%;
+    }
+    100% {
+        background-position: 200% 50%;
+    }
+}
+
+/* PARILDAMA ANİMASYONU: Işığın hafifçe sönüp parlayarak canlı durmasını sağlar */
+@keyframes pulseGlow {
+    0% {
+        filter: drop-shadow(0 0 6px rgba(0, 255, 135, 0.3))
+        drop-shadow(0 0 15px rgba(255, 0, 170, 0.2));
+    }
+    100% {
+        filter: drop-shadow(0 0 12px rgba(0, 255, 135, 0.6))
+        drop-shadow(0 0 28px rgba(255, 0, 170, 0.5));
+    }
 }
