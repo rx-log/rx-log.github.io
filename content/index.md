@@ -1,5 +1,5 @@
 ---
-title: rx-log [[gu30jk8kfkf8b6rkdmgx5yfpcokz.webp|38]]
+title: rx-log
 ---
 Notlarıma hoş geldin.
 
