@@ -21,7 +21,7 @@ footer > p:first-of-type {
 }
 
 footer::before {
-    content: "Bu web sitesinde yer alan tüm içerikler; yalnızca bilimsel, farmakolojik, tıbbi ve eğitimsel bilgilendirme amacıyla hazırlanmıştır.";
+    content: "Bu web sitesinde yer alan tüm içerikler; yalnızca bilimsel, farmakolojik, tıbbi ve eğitimsel bilgilendirme amacıyla hazırlanmıştır.\nrx";
     display: block;
     font-size: 0.9rem;
     color: #f79ec3;
@@ -31,12 +31,3 @@ footer::before {
     line-height: 1.5;
 }
 
-footer::after {
-    content: "rx";
-    display: block;
-    text-align: center;
-    font-size: 0.85rem;
-    font-weight: 400;
-    color: #f79ec3;
-    margin-top: 4px;
-}
