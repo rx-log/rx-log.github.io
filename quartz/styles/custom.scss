@@ -16,16 +16,24 @@ footer {
     text-align: center;
 }
 
-/* İlk paragrafı gizle */
 footer > p:first-of-type {
     display: none;
 }
 
-/* İlk paragraf gizlendikten sonra footer'a CSS ile yazı ekle */
-footer::after {
+footer::before {
     content: "Bu web sitesinde yer alan tüm içerikler; yalnızca bilimsel, farmakolojik, tıbbi ve eğitimsel bilgilendirme amacıyla hazırlanmıştır.";
     display: block;
     font-size: 0.9rem;
-    color: #f79ec3; /* Quartz'ın renk değişkeni */
+    color: #f79ec3;
     margin-top: 8px;
+}
+
+footer::after {
+    content: "rx";
+    display: block;
+    text-align: center;
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: #f79ec3;
+    margin-top: 4px;
 }
