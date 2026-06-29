@@ -21,20 +21,11 @@ footer > p:first-of-type {
     display: none;
 }
 
-/* İlk paragraf gizlendikten sonra footer'a net ve belirgin yeşil yazı ekle */
+/* İlk paragraf gizlendikten sonra footer'a CSS ile yazı ekle */
 footer::after {
     content: "Bu web sitesinde yer alan tüm içerikler; yalnızca bilimsel, farmakolojik, tıbbi ve eğitimsel bilgilendirme amacıyla hazırlanmıştır.";
     display: block;
-    text-align: center;
-    margin-top: 12px;
-    padding: 0 1.5rem;
-    text-wrap: balance;
-    line-height: 1.5;
-
-    /* Belirginlik Ayarları */
-    font-size: 0.80rem;       /* Okunabilirliği artırmak için hafifçe büyütüldü */
-    font-weight: 500;         /* Harfleri daha tok ve belirgin yapmak için kalınlaştırıldı */
-
-    /* Yeşil Renk Seçimi */
-    color: #1BE350;           /* Canlı, mat ve hem koyu hem açık temada sırıtmayan zümrüt yeşili */
+    font-size: 0.9rem;
+    color: #00ff87; /* Quartz'ın renk değişkeni */
+    margin-top: 8px;
 }
