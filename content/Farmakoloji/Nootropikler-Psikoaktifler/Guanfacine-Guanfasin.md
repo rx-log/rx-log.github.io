@@ -18,5 +18,3 @@ Alfa-2A adrenerjik reseptör agonistidir. Birincil olarak DEHB ve yüksek kan ba
 
 - <b style="color:lightpink;">Z:</b> 
 
-
-<sup>Taslak tasarımdır. Öncelikle kendi deneyimim, ardından 3 farklı bireyin deneyimleri şeklinde düzenlenecek.</sup>

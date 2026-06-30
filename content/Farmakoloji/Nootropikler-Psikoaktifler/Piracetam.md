@@ -34,6 +34,7 @@ Henüz kategoriye ilişkin çalışmaları pek dahil etmedim. GÜNCELLENECEK
 
 - Çoğu kortikal bölgelerde bölgesel serebral glikoz kullanımını/metabolizmasını<sup>(rCMRglu)</sup> kayda değer biçimde artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/3260597/">R</a>
 
+- Serebellum<sup>(beyincik)</sup> hariç tüm beyin bölgelerinde zar akışkanlığını artırmış, hipokampusta NMDA pozitif upregülasyonuna neden olmuş, frontal korteks, striatum ve hipokampusta müskarinik kolinerjik reseptör upregülasyonuna neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/10338103/">R</a>
 
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
 
@@ -45,5 +46,3 @@ Henüz kategoriye ilişkin çalışmaları pek dahil etmedim. GÜNCELLENECEK
 
 - <b style="color:lightpink;">Z:</b> 
 
-
-<sup>Taslak tasarımdır. Öncelikle kendi deneyimim, ardından 3 farklı bireyin deneyimleri şeklinde düzenlenecek.</sup>

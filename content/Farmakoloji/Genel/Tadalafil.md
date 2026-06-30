@@ -19,6 +19,3 @@ Birincil olarak erektil disfonksiyon tedavisinde kullanılan bir seçici PDE-5 i
 - <b style="color:lightpink;">Y:</b> 
 
 - <b style="color:lightpink;">Z:</b> 
-
-
-<sup>Taslak tasarımdır. Öncelikle kendi deneyimim, ardından 3 farklı bireyin deneyimleri şeklinde düzenlenecek.</sup>
