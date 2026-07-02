@@ -9,11 +9,11 @@ Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(
 
 - Oksipital gri madde aracılığıyla perfüzyonu ve talamusta perfüzyonu artırmıştır<sup>(daha çok yaşlı katılımcılarda)</sup>. Yani serebral kan akışını artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/28291957/">R</a>
 
-- Hipotalamik aktiviteyle ilişkilendirildiği şekilde, tüm vücut insülin hassasiyetini artırmıştır<sup>(daha çok obez olmayanlarda)</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/25028522/">R</a>
+- Hipotalamik aktiviteyle ilişkilendirildiği üzere, tüm vücut insülin hassasiyetini artırmıştır<sup>(daha çok obez olmayanlarda)</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/25028522/">R</a>
 
-- Doza bağlı olarak bölgesel beyin aktivitesini modüle etmiş<sup>(amigdala, hipotalamus, kaudat, üst frontal girus)?</sup>, ve nabız değişkenliğinin yüksek-frekans alanını normalleştirmiştir. 160UI en güçlü etkilere sahipti, ve bu dozda kan dolaşımına insülin "taşması" tespit edildi<sup>/?\</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/29095982/">R</a>
+- Doza bağlı olarak bölgesel beyin aktivitesini modüle etmiş<sup>(amigdala, hipotalamus, kaudat, üst frontal girus)?</sup>, ve nabız değişkenliğinin yüksek-frekans alanını normalleştirmiştir. 160UI en güçlü etkilere sahipti, ve bu dozda kan dolaşımına insülin "taşması" tespit edildi. <a href="https://pubmed.ncbi.nlm.nih.gov/29095982/">R</a>
 
-
+- Hipokampal bölgeler ve çeşitli DMN<sup>(default mode network/varsayılan durum şebekesi, birey dış dünyaya odaklanmadığında ve beyin uyanık istirahatte olduğunda aktif olmasıyla bilinir, dalıp gitme veya daydreamingde olduğu gibi)</sup> bölgeleri arasında istirahat halindeki fonksiyonel bağlılığı/bağlanırlığı artırmıştır. İstirahat halindeki bağlanırlık bilişsel performans ile ilişkilidir. Medial frontal korteks bölgesinin bağlanırlığı ise uygulama sonrası kontrol deneklerine benzerdi. <a href="https://pubmed.ncbi.nlm.nih.gov/25249577/">R</a>
 <br>
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
 
