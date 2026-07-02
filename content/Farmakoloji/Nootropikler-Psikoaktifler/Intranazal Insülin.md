@@ -1,5 +1,4 @@
 Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(birkaç çalışma spesifik dozlara bağlı olarak etkilediğini raporlarken, diğer çalışmalar ise bu dozlardan daha düşük dozlarda bile etkilediğini raporlamaktadır)</sup>.
-
 <br>
 <h1 style="color:lightgreen;">İnsan</h1>
 
@@ -14,6 +13,13 @@ Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(
 - Doza bağlı olarak bölgesel beyin aktivitesini modüle etmiş<sup>(amigdala, hipotalamus, kaudat, üst frontal girus)?</sup>, ve nabız değişkenliğinin yüksek-frekans alanını normalleştirmiştir. 160UI en güçlü etkilere sahipti, ve bu dozda kan dolaşımına insülin "taşması" tespit edildi. <a href="https://pubmed.ncbi.nlm.nih.gov/29095982/">R</a>
 
 - Hipokampal bölgeler ve çeşitli DMN<sup>(default mode network/varsayılan durum şebekesi, birey dış dünyaya odaklanmadığında ve beyin uyanık istirahatte olduğunda aktif olmasıyla bilinir, dalıp gitme veya daydreamingde olduğu gibi)</sup> bölgeleri arasında istirahat halindeki fonksiyonel bağlılığı/bağlanırlığı artırmıştır. İstirahat halindeki bağlanırlık bilişsel performans ile ilişkilidir. Medial frontal korteks bölgesinin bağlanırlığı ise uygulama sonrası kontrol deneklerine benzerdi. <a href="https://pubmed.ncbi.nlm.nih.gov/25249577/">R</a>
+
+- Beyin enerjisini<sup>(ATP ve fosfokreatin)</sup> artırmıştır. Serebral enerji içeriği, kontrol grubunda kalori alımı ile ters orantılıydı. Uygulama sonrası kalori tüketimi azalmıştır<sup>?</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/22586589/">R</a>
+
+- Kas sempatik sinir aktivitesini<sup>(artışı vazokonstriksiyona neden olmaya eğilimlidir)</sup> ve kan basıncını/tansiyonu artırmış, ve bacak vasküler geçirgenliğini azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/38787381/">R</a>
+
+
+
 <br>
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
 
