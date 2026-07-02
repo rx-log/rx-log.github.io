@@ -1,4 +1,4 @@
-Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(birkaç çalışma spesifik dozlara bağlı olarak etkilediğini raporlarken, diğer çalışmalar ise bu dozlardan daha düşük dozlarda bile etkilediğini raporlamaktadır)</sup>.
+Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(birkaç çalışma spesifik dozlara bağlı olarak etkilediğini raporlarken, diğer çalışmalar ise bu dozlardan daha düşük dozlarda bile etkilediğini raporlamaktadır)</sup>. DENEME
 
 <br>
 <h1 style="color:lightgreen;">İnsan</h1>
