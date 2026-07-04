@@ -18,7 +18,9 @@ Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(
 
 - Kas sempatik sinir aktivitesini<sup>(artışı vazokonstriksiyona neden olmaya eğilimlidir)</sup> ve kan basıncını/tansiyonu artırmış, ve bacak vasküler geçirgenliğini azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/38787381/">R</a>
 
+- Gecikmeli kelime hatırlamayı kayda değer miktarda geliştirmiştir. Katılımcılar azalmış sinir ve gelişmiş özgüven gibi gelişmiş ruh hali raporlamıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/15288712/">R</a>
 
+- Egzersiz; serebral glikoz metabolizmasının intranazal insüline hassasiyetini artırmaktadır<sup>(sağlıklı genç insanlar)?</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/42205008/">R</a>
 
 <br>
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
@@ -30,6 +32,9 @@ Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(
 - Hafızayı; daha genç modellerde görünen seviyeye benzer olacak şekilde iyileştirmiştir. Hiperpolarizasyon sonrası potansiyeli<sup>(APH, zarın kısa süreliğine dinlenik potansiyelin altına inmesi)</sup> azaltmıştır<sup>(sonuç olarak da aksiyon potansiyeli ateşleme sıklığı artabilir)?</sup>. <a href="https://doi.org/10.1093/gerona/glu314">R</a>
 
 - Kv1.3'ün<sup>(bir voltaj kapılı potasyum kanalıdır; zar potansiyelini, hücresel aktivasyonu ve hücre ölümünü kontrol eder)</sup> bariz fosforilasyonunu uyarmış, insülin reseptör ve postsinaptik yoğunluk 95<sup>(uyarıcı sinapslarda nörotransmiter reseptörleri organize ve stabilize eden bir kılıf proteindir)</sup> ile kanal protein-protein etkileşimlerini artırmıştır. Kısa ve uzun vadeli obje hafıza tanınırlığını, anksiyolitik davranışı, ve koku ayrımını artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/19458242/">R</a>
+
+- Psödoyaşlılık modelinde; kısa dönem hafızayı, yeni obje tanıma testinde tanıma hafızasını, ve korku koşullanmasında ilişkisel hafızayı geliştirmiştir. Moleküler düzeyde ise; Iba-1 ve pTBK1<sup>(bunlar sıklıkla inflamatuvar süreçlerde ortaya çıkar)</sup> ifadesindeki artışı tersine çevirerek mikroglial<sup>(merkezi sinir sistemininin birincil bağışıklık hücreleri)</sup> aktivasyonunun ve cGAS-STING yolunun sinyallemesinin<sup>(hücre içi sıvısal dnayı tespit etmek ve bir immün yanıtına neden olmak için çalışır)</sup> azalmasını/hafiflemesini öne sürmüştür, ve hipokampal BDNF<sup>(beyin türevli büyüme faktörleri, beyindeki büyüme faktörleri de diyebiliriz)</sup> seviyelerini geri kazandırmıştır/iyileştirmiştir. Kısaca; hafızayı geliştirmiş ve nöroinflamasyonu azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/41193931/">R</a>
+
 
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
 

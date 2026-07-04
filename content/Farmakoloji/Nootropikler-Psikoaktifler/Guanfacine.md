@@ -1,4 +1,4 @@
-Alfa-2A adrenerjik reseptör agonistidir. Birincil olarak DEHB ve yüksek kan basıncı tedavisinde kullanılmaktadır. Longevity/nootropik topluluklarında tipik uyarıcıların yanında kullanılmaktadır.
+Alfa-2A adrenerjik reseptör agonistidir. DEHB ikincil tedavisinde ve yüksek kan basıncı tedavisinde kullanılmaktadır. Longevity/nootropik topluluklarında tipik uyarıcıların yanında kullanılmaktadır.
 
 
 <h1 style="color:lightgreen;">İnsan</h1>
