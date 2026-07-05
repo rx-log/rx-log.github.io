@@ -36,6 +36,12 @@ Henüz kategoriye ilişkin çalışmaları pek dahil etmedim. GÜNCELLENECEK
 
 - Serebellum<sup>(beyincik)</sup> hariç tüm beyin bölgelerinde zar akışkanlığını artırmış, hipokampusta NMDA pozitif upregülasyonuna neden olmuş, frontal korteks, striatum ve hipokampusta müskarinik kolinerjik reseptör upregülasyonuna neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/10338103/">R</a>
 
+- Striatumda dopamini değil de, dopamin metabolitlerinin<sup>(DOPAC ve HVA)</sup> seviyelerini artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/6276786/">R</a>
+
+- Serebral kortekste 5-HT yoğunluğunu artırmış, ve 5-HIAA<sup>(serotonin metaboliti)</sup> seviyelerini azaltmıştır, yani 5-HIAA:5-HT orantısını azaltmıştır. Bu orantıdaki azalma, 5-HT dönüşümünün azaldığına işaret eder. Bir benzodiazepine benzer bir anksiyolitik profil sergilemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/95599/">R</a>
+
+- Düşük dozda 5-HT seviyelerini azaltmış, ve noradrenalin seviyelerini artırmıştır. Yüksek doz da tam tersini gerçekleştirmiştir. Düşük doz prostaglandin e2<sup>(PGE2)</sup> ve prostaglandin f2alfa<sup>(PGF2 alfa)</sup> seviyelerinde küçük bir artışa neden olurken, yüksek doz bariz şekilde artışa neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/2606534/">R</a>
+
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
 
 - <b style="color:lightpink;">RX:</b> 
