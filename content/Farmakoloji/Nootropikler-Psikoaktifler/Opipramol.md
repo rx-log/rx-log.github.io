@@ -1,0 +1,1 @@
+Yüksek afinite sigma reseptör agonisti ve histamin 1 reseptör antagonisti.
