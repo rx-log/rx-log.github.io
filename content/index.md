@@ -3,7 +3,7 @@ title: rx-log
 ---
 Notlarıma hoş geldin. Genellikle nootropikler üzerine okumalar yapıyorum, keyfi olarak da ilişkili ajanları araştırıyorum. Polifarmasi tutkunuyum, sanırsam "biohacker" olarak da tanımlanabilirim. Araştırmalarımı/okumalarımı tamamen keyif-hobi üzerine devam ettiriyorum, bir getiri amacım yok<sup>(belki de henüz yok 👀)</sup>.
 
-Güncel olarak ilgimi yoğunlaştırdığım [[Piracetam]], [[Glisin]], ve [[Intranazal Insülin]]'e göz atabilirsin.
+Güncel olarak ilgimi yoğunlaştırdığım [[Piracetam]], [[Tadalafil]], ve [[Intranazal Insülin]]'e göz atabilirsin.
 
 ![[gu30jk8kfkf8b6rkdmgx5yfpcokz.webp|38]]
 
