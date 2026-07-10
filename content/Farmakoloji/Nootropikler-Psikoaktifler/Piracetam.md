@@ -1,5 +1,9 @@
-Çalışma mekanizması tamamen bilinir değildir. Çoğunlukla kolinerjik ve glutamaterjik<sup>(görece zayıf AMPA-PAM)</sup> sinyallemeyi geliştirmesinin yanı sıra, kalsiyum-potasyum kanalını modüle ettiğine inanılır.
-Henüz kategoriye ilişkin çalışmaları pek dahil etmedim. GÜNCELLENECEK
+---
+tags:
+  - AMPA-PAM
+---
+AMPA<sup>(iyonotropik glutamat reseptörü)</sup> reseptörlerinin pozitif allosterik modülatörüdür<sup>(AMPA-PAM)</sup>. Çoğunlukla kolinerjik ve glutamaterjik sinyallemeyi geliştirmesinin yanı sıra, kalsiyum-potasyum kanalını modüle ettiğine inanılır.
+
 <br>
 <h1 style="color:lightgreen;">İnsan</h1>
 
@@ -19,8 +23,9 @@ Henüz kategoriye ilişkin çalışmaları pek dahil etmedim. GÜNCELLENECEK
 
 - Doza bağlı olarak "kendiliğinden EEG<sup>(elektroensefalografi, beyinle ilişkili elektriksel faaliyetlerinin ölçümü için kullanılır)</sup>" değerlerini azaltmıştır, azalan EEG kompleksitesi beynin fonksiyonel süreçlerinin artan işbirliği olarak yorumlanır. <a href="https://pubmed.ncbi.nlm.nih.gov/10555876/">R</a>
 
--  14 günlük kullanımın ardından sözlü öğrenmeyi kayda değer biçimde artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/826948/">R</a>
+-  Sözlü öğrenmeyi kayda değer biçimde artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/826948/">R</a>
 
+“In vitro, piracetam (IC50 = 8.13 μM) and phenotropil [phenylpiracetam] (IC50 = 5.86 μM) directly influenced α4β2 nicotinic acetylcholine receptors in the mouse brain cortex. Piracetam is an agonist of glutamate quisqualate autoreceptors and increases the number of binding sites for 3Hglutamate and 3HAMPA. Aniracetam enhanced the conduc tance of NMDA receptors by binding with the glycine site.”
 <br>
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
 
