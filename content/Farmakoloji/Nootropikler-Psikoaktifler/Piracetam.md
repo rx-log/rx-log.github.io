@@ -1,9 +1,4 @@
----
-Etki Mekanizması: "[[AMPA-PAM]]"
-İlaç Grubu: "[[Nootropik]]"
----
-AMPA<sup>(iyonotropik glutamat reseptörü)</sup> reseptörlerinin pozitif allosterik modülatörüdür<sup>(AMPA-PAM)</sup>. Çoğunlukla kolinerjik ve glutamaterjik sinyallemeyi geliştirmesinin yanı sıra, kalsiyum-potasyum kanalını modüle ettiğine inanılır.
-
+[[Nootropik]] ilaç sınıfındadır. AMPA<sup>(iyonotropik glutamat reseptörü)</sup> reseptörlerinin pozitif allosterik modülatörüdür<sup>([[AMPA-PAM]])</sup>. Çoğunlukla kolinerjik ve glutamaterjik sinyallemeyi geliştirmesinin yanı sıra, kalsiyum-potasyum kanalını modüle ettiğine inanılır.
 <br>
 <h1 style="color:lightgreen;">İnsan</h1>
 
@@ -40,7 +35,7 @@ AMPA<sup>(iyonotropik glutamat reseptörü)</sup> reseptörlerinin pozitif allos
 - Çoğu kortikal bölgelerde bölgesel serebral glikoz kullanımını/metabolizmasını<sup>(rCMRglu)</sup> kayda değer biçimde artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/3260597/">R</a>
 
 - Serebellum<sup>(beyincik)</sup> hariç tüm beyin bölgelerinde zar akışkanlığını artırmış, hipokampusta NMDA pozitif upregülasyonuna neden olmuş, frontal korteks, striatum ve hipokampusta müskarinik kolinerjik reseptör upregülasyonuna neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/10338103/">R</a>
-
+ ^a54065
 - Striatumda dopamini değil de, dopamin metabolitlerinin<sup>(DOPAC ve HVA)</sup> seviyelerini artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/6276786/">R</a>
 
 - Serebral kortekste 5-HT yoğunluğunu artırmış, ve 5-HIAA<sup>(serotonin metaboliti)</sup> seviyelerini azaltmıştır, yani 5-HIAA:5-HT oranını azaltmıştır. Bu orandaki azalma, 5-HT dönüşümünün azaldığına işaret eder. Bir benzodiazepine benzer bir anksiyolitik profil sergilemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/95599/">R</a>
