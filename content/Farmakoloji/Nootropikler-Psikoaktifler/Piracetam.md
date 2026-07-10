@@ -1,6 +1,6 @@
 ---
-tags:
-  - AMPA-PAM
+cssclasses:
+  - "[[AMPA-PAM]]"
 ---
 AMPA<sup>(iyonotropik glutamat reseptörü)</sup> reseptörlerinin pozitif allosterik modülatörüdür<sup>(AMPA-PAM)</sup>. Çoğunlukla kolinerjik ve glutamaterjik sinyallemeyi geliştirmesinin yanı sıra, kalsiyum-potasyum kanalını modüle ettiğine inanılır.
 
