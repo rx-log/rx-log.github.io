@@ -1,4 +1,5 @@
-[[Nootropik]] ilaç sınıfındadır. AMPA<sup>(iyonotropik glutamat reseptörü)</sup> reseptörlerinin pozitif allosterik modülatörüdür<sup>([[AMPA-PAM]])</sup>. Çoğunlukla kolinerjik ve glutamaterjik sinyallemeyi geliştirmesinin yanı sıra, kalsiyum-potasyum kanalını modüle ettiğine inanılır.
+[[Nootropik]]tir. AMPA<sup>(iyonotropik glutamat reseptörü)</sup> reseptörlerinin pozitif allosterik modülatörüdür<sup>([[AMPA-PAM]])</sup><a href="https://pubmed.ncbi.nlm.nih.gov/1372342/">R</a>|<a href="https://pubmed.ncbi.nlm.nih.gov/20163115/">R</a>. Çoğunlukla kolinerjik ve glutamaterjik sinyallemeyi geliştirmesinin yanı sıra, serotonerjik, noradrenerjik ve dopaminerjik sinyallemeyi, ve kalsiyum-potasyum kanalını modüle ettiğine dair bulgular vardır. 
+
 <br>
 <h1 style="color:lightgreen;">İnsan</h1>
 
@@ -20,7 +21,8 @@
 
 -  Sözlü öğrenmeyi kayda değer biçimde artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/826948/">R</a>
 
-“In vitro, piracetam (IC50 = 8.13 μM) and phenotropil [phenylpiracetam] (IC50 = 5.86 μM) directly influenced α4β2 nicotinic acetylcholine receptors in the mouse brain cortex. Piracetam is an agonist of glutamate quisqualate autoreceptors and increases the number of binding sites for 3Hglutamate and 3HAMPA. Aniracetam enhanced the conduc tance of NMDA receptors by binding with the glycine site.”
+- Özellikle beyincikte olmak üzere, bölgesel serebral kan akışını geliştirmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/9890490/">R</a>
+
 <br>
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
 
@@ -34,13 +36,21 @@
 
 - Çoğu kortikal bölgelerde bölgesel serebral glikoz kullanımını/metabolizmasını<sup>(rCMRglu)</sup> kayda değer biçimde artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/3260597/">R</a>
 
-- Serebellum<sup>(beyincik)</sup> hariç tüm beyin bölgelerinde zar akışkanlığını artırmış, hipokampusta NMDA pozitif upregülasyonuna neden olmuş, frontal korteks, striatum ve hipokampusta müskarinik kolinerjik reseptör upregülasyonuna neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/10338103/">R</a>
- ^a54065
+- Serebellum<sup>(beyincik)</sup> hariç tüm beyin bölgelerinde zar akışkanlığını artırmış, hipokampusta NMDA pozitif upregülasyonuna neden olmuş, frontal korteks, striatum ve hipokampusta muskarinik kolinerjik reseptör upregülasyonuna neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/10338103/">R</a>
+
 - Striatumda dopamini değil de, dopamin metabolitlerinin<sup>(DOPAC ve HVA)</sup> seviyelerini artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/6276786/">R</a>
 
 - Serebral kortekste 5-HT yoğunluğunu artırmış, ve 5-HIAA<sup>(serotonin metaboliti)</sup> seviyelerini azaltmıştır, yani 5-HIAA:5-HT oranını azaltmıştır. Bu orandaki azalma, 5-HT dönüşümünün azaldığına işaret eder. Bir benzodiazepine benzer bir anksiyolitik profil sergilemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/95599/">R</a>
 
 - Düşük dozda 5-HT seviyelerini azaltmış, ve noradrenalin seviyelerini artırmıştır. Yüksek doz da tam tersini gerçekleştirmiştir. Düşük doz prostaglandin e2<sup>(PGE2)</sup> ve prostaglandin f2alfa<sup>(PGF2 alfa)</sup> seviyelerinde küçük bir artışa neden olurken, yüksek doz bariz şekilde artışa neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/2606534/">R</a>
+
+- Frontal kortekste mevcut muskarinik asetilkolin reseptörlerinin sayısını artırmıştır<sup>(potansiyel upregülasyon?)</sup>. <a href="https://doi.org/10.1007/BF00735884">R</a>
+
+- Duyarsız halde bulunmayan mevcut muskarinik asetilkolin reseptörlerinin sayısını artırmıştır<sup>(potansiyel upregülasyon?)</sup>. <a href="https://doi.org/10.1016/0197-4580(92)90006-J">R</a>
+
+- Lokal serebral glikoz kullanımını geliştirmiş, ve hipoksiye karşı bir korumaya neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/3569848/">R</a>
+
+- NMDA reseptör yoğunluğunu yaklaşık olarak %20 artırmış, ve L-Glutamatın NMDA reseptörüne artmış afinitesini normalize etmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/8234409/">R</a>
 
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
 

@@ -1,0 +1,1 @@
+Ampa reseptörü pozitif allosterik modülatör.
