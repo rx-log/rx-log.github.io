@@ -19,9 +19,15 @@
 
 - Doza bağlı olarak "kendiliğinden EEG<sup>(elektroensefalografi, beyinle ilişkili elektriksel faaliyetlerinin ölçümü için kullanılır)</sup>" değerlerini azaltmıştır, azalan EEG kompleksitesi beynin fonksiyonel süreçlerinin artan işbirliği olarak yorumlanır. <a href="https://pubmed.ncbi.nlm.nih.gov/10555876/">R</a>
 
--  Sözlü öğrenmeyi kayda değer biçimde artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/826948/">R</a>
+- Sözlü öğrenmeyi kayda değer biçimde artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/826948/">R</a>
 
 - Özellikle beyincikte olmak üzere, bölgesel serebral kan akışını geliştirmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/9890490/">R</a>
+
+- ATP değerlerinde bir artış gerçekleşmiştir. Şizofreni ve ilaca dirençli depresyon semptomlarını azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/488520/">R</a>
+
+- Lipit peroksidasyonu üzerinde kontrol edici etki göstererek ve hypothalamo-hypophyseo-adrenal sistem aracılığıyla bağışıklığı normalize etmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/1803607/">R</a>
+
+- Glikoz kullanımını artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/1776760/">R</a>
 
 <br>
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
@@ -38,7 +44,7 @@
 
 - Serebellum<sup>(beyincik)</sup> hariç tüm beyin bölgelerinde zar akışkanlığını artırmış, hipokampusta NMDA pozitif upregülasyonuna neden olmuş, frontal korteks, striatum ve hipokampusta muskarinik kolinerjik reseptör upregülasyonuna neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/10338103/">R</a>
 
-- Striatumda dopamini değil de, dopamin metabolitlerinin<sup>(DOPAC ve HVA)</sup> seviyelerini artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/6276786/">R</a>
+- Striatumda dopamini değil de, dopamin metabolitlerinin<sup>(DOPAC ve HVA)</sup> seviyelerini artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/6276786/">R</a><a href="https://pubmed.ncbi.nlm.nih.gov/3035858/">R</a>
 
 - Serebral kortekste 5-HT yoğunluğunu artırmış, ve 5-HIAA<sup>(serotonin metaboliti)</sup> seviyelerini azaltmıştır, yani 5-HIAA:5-HT oranını azaltmıştır. Bu orandaki azalma, 5-HT dönüşümünün azaldığına işaret eder. Bir benzodiazepine benzer bir anksiyolitik profil sergilemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/95599/">R</a>
 
@@ -51,6 +57,42 @@
 - Lokal serebral glikoz kullanımını geliştirmiş, ve hipoksiye karşı bir korumaya neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/3569848/">R</a>
 
 - NMDA reseptör yoğunluğunu yaklaşık olarak %20 artırmış, ve L-Glutamatın NMDA reseptörüne artmış afinitesini normalize etmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/8234409/">R</a>
+
+- Mekansal öğrenmeyi geliştirmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/1680776/">R</a>
+
+- Muskarinik reseptör sayısını artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/1548981/">R</a>
+
+- Noradrenerjik nöronların ateşleme hızlarını artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/7175517/">R</a>
+
+- Serebral kortekste ve striatumda dopamin seviyelerini önemli miktarda artırmış ve kortekste 5-HT seviyelerini azaltarak striatumda, beyin sapında ve hipotalamusta 5-HT seviyelerini azaltmıştır. Kortekste ve hipotalamusta dopamin dönüşümü hızlanmış ve striatumda gecikmiştir, noradrenalin dönüşümü beyin sapında hızlanmıştır, 5-HT seviyeleri kortekste hızlanmış ve striatum, beyin sapı ve hipotalamusta gecikmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/6535371/">R</a>
+
+- Sodyum-potasyum pompasının ve monoamin oksidazın<sup>(MAO)</sup> aktivitesini azaltmıştır. MAO üzerinde inhibitör etki sergilemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/1318632/">R</a>
+
+- Striatal ve hipotalamik total MAO'yu, hipotalamik MAO-A ve MAO-B'yi aktif etmiş, ancak striatumda MAO-A ve MAO-B üzerinde inhibitör etki sergilemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/3137089/">R</a><a href="https://doi.org/10.1007/BF00791496">R</a>
+
+- Bir protein sentezi inhibitörünün amnezi etkilerine karşı koruma sağlamıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/6817363/">R</a>
+
+- Fosfolipit ve beyin protein sentezi sürecinde aktifti<sup>(diğer çalışmalarda bu çalışma alıntılanarak bu süreçlerin gerçekleştirildiği belirtiliyor)</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/7308456/">R</a>
+
+- Sinaptozomların<sup>(sinaptik veziküller açısından zengin, izole nöronal fraksiyonlar)</sup> lipit içeriğini normalleştirmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/1893186/">R</a>
+
+- Adenilat kinaz<sup>(hücre içi enerji dengesini korumak için ATP, ADP ve AMP dönüşümünü katalize eden bir enzimdir)</sup> aktivitesini geliştirmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/985556/">R</a>
+
+- Beyinde travmatik ödem gelişimi sırasında mitokondrinin "telafi edici kapasitelerini" geliştirmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/1804695/">R</a>
+
+- Sitokrom B5<sup>(enerji üretimi, lipit biyosentezi, ve yağlı asit desatürasyonu gibi biyokimyasal süreçlerde rol oynayan bir hemoprotein)</sup> sentezini ve dönüşümünü artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/582679/">R</a>
+
+- Nöronal lipofuksin<sup>(hücrelerin içinde biriken, yaşlanma veya yıpranma pigmenti olarak bilinen kahverengi-sarı renkli bir atık maddedir)</sup> formasyonunun bariz şekilde azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/1755517/">R</a>
+
+- Alkole bağlı hafıza bozukluklarını azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/1870356/">R</a>
+
+- Nöronal ve sinaptomozal fosfolipaz a-2<sup>(hücre zarlarındaki fosfolipitlerin yapısını parçalayarak araşidonik asit ve lizofosfolipitler üreten bir enzim)</sup> aktivitesini geliştirmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/582756/">R</a>
+
+- L-prolin<sup>(potansiyel nörotoksin, bu bağlamda amnezik olarak kullanılmıştır)</sup> salınımını azaltmıştır. <a href="https://doi.org/10.1016/0006-8993(76)90065-2">R</a>
+
+
+
+[https://doi.org/10.1007/BF00783119](https://doi.org/10.1007/BF00783119 "https://doi.org/10.1007/BF00783119")
 
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
 
