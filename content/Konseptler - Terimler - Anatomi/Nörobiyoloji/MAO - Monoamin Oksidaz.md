@@ -1,0 +1,1 @@
+MAO enzimleri norepinefrin, serotonin, ve dopamin gibi nörotransmitterlerin katabolizasyonundan sorumludur. Bu enzimlerin çalışmasının engellenmesi merkezi sinir sistemindeki nörotransmitterlerin geri alımını engelleyerek, sinaptik boşlukta artan seviyelerde biyolojik olarak aktif monoaminlerin bulunmasıyla sonuçlanır.
