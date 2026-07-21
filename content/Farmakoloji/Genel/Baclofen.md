@@ -16,7 +16,7 @@ Baclofen (gaba-b / sosyal disinhibisyon, libido artışı(?), özgüven artış�
 
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
 
-- <b style="color:lightpink;">RX:</b> Alkolün fiziksel etkilerinin tamamına ek olarak, alkolün tam tersine bilişsel kötülüklerinden arınmış bir deneyim diyebilirim. Şahsen etkisinin 7-8 saate kadar sürdüğünü ve bu etkinin "zirve" seviyesinde olduğunu söyleyebilirim. Kesinlikle sosyal disinhibisyon, özgüven artışı, ve libido artışı deneyimledim. Yaklaşık 40-70mg arasında aynı etkileri deneyimledim, ancak doz yükseldikçe etki süresi daha da arttı.
+- <b style="color:lightpink;">RX:</b> Alkolün fiziksel etkilerinin tamamına ek olarak, alkolün tam tersine bilişsel kötülüklerinden arınmış bir deneyim diyebilirim. Şahsen etkisinin 7-8 saate kadar sürdüğünü ve bu etkinin "zirve" seviyesinde olduğunu söyleyebilirim. Kesinlikle sosyal disinhibisyon, özgüven artışı, ve libido artışı deneyimledim. Yaklaşık 40-70mg arasında aynı etkileri deneyimledim, ancak doz yükseldikçe etki süresi daha da arttı. Yüksek karbonhidratlı öğünlerle birlikte alınca daha çok etki ediyor sanırsam, "might be cortisol suppression" dedi birisi.
 
 - <b style="color:lightpink;">X:</b> 
 
