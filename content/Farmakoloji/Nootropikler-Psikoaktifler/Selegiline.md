@@ -36,3 +36,17 @@ Selejilin; N-desmetilselejilin, L-amfetamin, ve L-metamfetamin üretimi için me
 - Metabolitleri olan L-amfetamin ve L-metamfetamin, toksik bir metabolitin neden olduğu nörotoksisiteye karşı koruma sağlamıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/7931228/">R</a>
 
 - ÖMÜR UZATMIŞTIR<sup>???????</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/8423709/">R</a>
+
+- NMDAya tabii tutulmanın neden olduğu gecikmiş nörotoksisiteden dopamin nöronlarını korumuştur. NMDA reseptör bağlanması üzerinde engelleyici bir etkisi yoktur. <a href="https://pubmed.ncbi.nlm.nih.gov/8978707/">R</a>
+
+- Dopamin nörotoksisitesine karşı nigral nöronları<sup>(nigral nöronlar; substantia nigra(ortabeyin ile bağlantılı olan ve hareketi, ödülü, ve bilişi regüle eden bölge) bölgesinde bulunan dopaminerjik nöronlardır)</sup> korumuştur. Hidroksil serbest radikallerin<sup>(aşırı reaktif ve kısa ömürlü moleküllerdir, yüksekçe oksidize edicilerdir(elektronların kaybı) ve insanlarda hücrelere ve DNAya zarar verirler, ayrıca "doğanın deterjanı" olarak bilinirler)</sup> oluşumunu kayda değer miktarda azaltmıştır<sup>(antioksidan özellik)</sup>. Dopamin sızıntısını azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/8276076/">R</a><a href="https://pubmed.ncbi.nlm.nih.gov/7931226/">R</a>
+
+- Striatumda, substantia nigrada, ve serebral kortekste süperoksit dismutaz ve katalaz<sup>(hücreleri toksik oksijen radikallerine karşı koruyan antioksidanlar)</sup> aktivitelerinde doza bağlı olarak artışa neden olmuştur. Ancak hipokampusta, serebellumda ve karaciğerde aynı bulgu ile sonuçlanmamıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/8190023/">R</a><a href="https://pubmed.ncbi.nlm.nih.gov/8139387/">R</a>
+
+- Glial fibriller asidik proteini artırmıştır<sup>(merkezi sinir sistemindeki astrositlerde bulunan ve bu hücrelerin iç iskeletini oluşturan tip 3 ara filament proteini, artışı; bir hasara yanıt olarak yara dokusu oluşturulmasının yani korumanın ve erken onarımın bir belirtecidir)</sup>. Bazik fibroblast büyüme faktörü(bFGF) seviyelerini artırmıştır<sup>(vücudun neredeyse tüm dokularında hücre büyümesi, farklılaşması ve sağkalımını yöneten bir büyüme faktörüdür, bu bağlamda artışı iyileştirici ve koruyucu yanıtlara yol açmıştır)</sup>, ki bFGF nigrostriatal dopamin nöronlarında koruyucu etkilere ve kolinerjik nöron sağkalımında artışa neden olur. <a href="https://pubmed.ncbi.nlm.nih.gov/7950964/">R</a>
+
+- Siliyer nörotrofik faktör<sup>(nöroproteksiyon, kök hücre farklılaşması ve metabolik düzenleme süreçlerinde rol oynar)</sup> gen ifadesinde artışı<sup>(motor nöron sağkalımı ve akson rejenerasyonuna, retina hücrelerinin korunmasına neden olur)</sup> uyarmıştır, ve uzantılı astrositlerin<sup>(uzantıları ile hem sinapsları yönlendirirler hem de damarları sararak kan-beyin bariyerini ve beslenmeyi kontrol ederler)</sup> toplam uzantı uzunluğunu artırmıştır<sup>(daha geniş bir alanı tarayıp kontrol ederler, doku onarımı, trofik faktör desteği ve hasara verilen bir hücresel savunma yanıtıdır, artışı sinaptik desteği artırır, kan-beyin bariyeri ve beslenmesini güçlendirir ve nöroproteksiyon sağlar)</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/8060389/">R</a>
+
+- Trofik faktör yoksunluğunun neden olduğu ölümü ~%91 azaltmıştır ve hücre sağkalımını artırmıştır. Apoptozu azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/7931312/">R</a><a href="https://pure.johnshopkins.edu/en/publications/deprenyl-increases-cell-survival-and-decreases-apoptosis-in-rat-r-3/">R</a>
+
+
