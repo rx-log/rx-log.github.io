@@ -82,7 +82,7 @@
 
 - Sitokrom B5<sup>(enerji üretimi, lipit biyosentezi, ve yağlı asit desatürasyonu gibi biyokimyasal süreçlerde rol oynayan bir hemoprotein)</sup> sentezini ve dönüşümünü artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/582679/">R</a>
 
-- Nöronal lipofuksin<sup>(hücrelerin içinde biriken, yaşlanma veya yıpranma pigmenti olarak bilinen kahverengi-sarı renkli bir atık maddedir)</sup> formasyonunun bariz şekilde azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/1755517/">R</a>
+- Nöronal lipofuksin<sup>(hücrelerin içinde biriken, yaşlanma veya yıpranma pigmenti olarak bilinen kahverengi-sarı renkli bir atık maddedir)</sup> formasyonunu bariz şekilde azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/1755517/">R</a>
 
 - Alkole bağlı hafıza bozukluklarını azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/1870356/">R</a>
 
@@ -96,7 +96,7 @@
 
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
 
-- <b style="color:lightpink;">RX:</b> 
+- <b style="color:lightpink;">RX:</b> 15 grama kadar deneyimledim, ve dozla birlikte etkilerin doğrusal olarak arttığını gözlemledim. Benim için etkiler; inanılmaz yüksek mental akışkanlık, mental dayanıklılık, sözlü akıcılık, işleme hızı, mükemmel ruh hali, mükemmel motivasyon, idrak yeteneğinde bariz artış, ve pek ilgili olmasa da yaratıcılıkta artış. Deneyimlediklerimin hepsi yüksek derecede gerçekleşiyor, ve şu ana kadar hiçbir şekilde yan etki de deneyimlemedim. Ek olarak bahsetmeye değer olarak; göz ayrımı, renk doygunluğu/tonu gelişimi deneyimledim. Gördüğüm renkler daha canlı, ve daha "renkli" görünüyor/hissettiriyordu.
 
 - <b style="color:lightpink;">X:</b> 
 

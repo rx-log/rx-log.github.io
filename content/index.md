@@ -1,7 +1,7 @@
 ---
 title: rx-log
 ---
-Notlarıma hoş geldin. Genellikle nootropikler üzerine okumalar yapıyorum, keyfi olarak da ilişkili ajanları araştırıyorum. Polifarmasi tutkunuyum, sanırsam "biohacker" olarak da tanımlanabilirim. Araştırmalarımı/okumalarımı tamamen keyif-hobi üzerine devam ettiriyorum, bir getiri amacım yok<sup>(belki de henüz yok 👀)</sup>.
+Notlarıma hoş geldin. Genellikle nootropikler üzerine okumalar yapıyorum, keyfi olarak da ilişkili ajanları araştırıyorum. Polifarmasi tutkunuyum, sanırsam "biohacker" olarak da tanımlanabilirim. Araştırmalarımı/okumalarımı tamamen keyif-hobi üzerine devam ettiriyorum, bir getiri amacım yok.
 
 Güncel olarak ilgimi yoğunlaştırdığım [[Piracetam]], [[Selegiline]], ve [[Intranazal Insülin]]'e göz atabilirsin.
 
