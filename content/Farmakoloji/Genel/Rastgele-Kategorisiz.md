@@ -9,3 +9,7 @@ Adrenalektomi gerçekleştirilen sıçanlarda [[Piracetam]], oxiracetam, anirace
 Adrenalektomi gerçekleştirilen sıçanlara aldosteron ve kortikosteron uygulanması [[Piracetam]]ın hafıza geliştirici etkilerini kurtarmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/2149831/">R</a>
 
 
+Öğrenme ve hafıza yüksekçe sinaptik plastisiteye bağlıdır, ki bu nöronlarda ve sinapslarda yapısal değişimleri içerir. NMDA reseptörleri uzun süreli güçlendirme ve uzun süreli depresyonda kritik rol oynar. Sinaptik kuvvetteki değişimler, sinaptik proteinlerin fosforilasyonu aracılığıyla regüle edilir, ki NMDA reseptörü özellikle önemlidir.
+
+
+

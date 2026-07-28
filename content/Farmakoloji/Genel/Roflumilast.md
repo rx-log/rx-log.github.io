@@ -1,4 +1,4 @@
-Seçici PDE-4 inhibitörü, spesifik olarak PDE4D izoformunun inhibitörü. [[Nootropik]] olarak da sınıflandırılabilir, zira birçok nörobiyolojik süreçler üzerinde çeşitli etkileri vardır. Birincil olarak kon
+Seçici PDE-4 inhibitörü, spesifik olarak PDE4D izoformunun inhibitörü. [[Nootropik]] olarak da sınıflandırılabilir, zira birçok nörobiyolojik süreçler üzerinde çeşitli etkileri vardır. Birincil olarak kronik obstrüktif akciğer hastalığının semptomlarını gidermek/azaltmak amacıyla kullanılır.
 
 
 
