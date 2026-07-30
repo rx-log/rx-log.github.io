@@ -15,7 +15,7 @@ Birincil olarak CYP2D6 enzimi tarafından metabolize edilir.
 
 - Majör depresif bozukluk skorlarını önemli miktarda azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/41202873/">R</a><a href="https://pubmed.ncbi.nlm.nih.gov/39302087/">R</a><a href="https://pubmed.ncbi.nlm.nih.gov/36266118/">R</a>
 
-- Kan basıncını, nabızı, vücut ısısını, gözbebeği boyutunu, plazma kortizol, prolaktin, oksitosin ve epinefrini kayda değer miktarda artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/25575620/">R</a>
+- Kan basıncını, nabızı, vücut ısısını, gözbebeği boyutunu, plazma kortizol, prolaktin, oksitosin ve epinefrini artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/25575620/">R</a>
 
 - Motor öğrenmeyi kayda değer miktarda artırmıştır, bilişsel fleksibiliteyi artırmıştır, ve algılanan stresi azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/42315644/">R</a>
 

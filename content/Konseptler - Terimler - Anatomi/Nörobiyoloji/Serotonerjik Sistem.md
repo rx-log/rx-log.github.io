@@ -1,0 +1,1 @@
+Özellikle 5-HT2A üzerine notlar eklenecek.

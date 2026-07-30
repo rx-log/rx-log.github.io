@@ -18,6 +18,8 @@ Selejilin; N-desmetilselejilin, L-amfetamin, ve L-metamfetamin üretimi için me
 
 - Oxiracetama kıyasla alzheimer-türünde demans tedavisinde daha etkilidir. <a href="https://pubmed.ncbi.nlm.nih.gov/2125242/">R</a>
 
+- Parafili ve hiperseksüeliteye yol açmıştır<sup>(vaka raporları)</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/16730214/">R</a>
+
 
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
 
