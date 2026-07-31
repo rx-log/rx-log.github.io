@@ -1,7 +1,8 @@
 İlk nesil antihistamin. İştah uyarıcı etkiler, antiserotonerjik, antikolinerjik, antidopaminerjik??? 5ht2a, l-kalsiyum kanalları ve muskarinik kolinerjik reseptör antagonisti. Ayrıca migrende etkileri vardır??
-
 Doksilaminden daha yoğun şekilde sedasyona neden olabilir, bundan dolayı "son çare" olarak nitelendiriyorum.
-
 Düşük dozda iştah artışı + uyku desteği için "şahsen" daha uygun görünüyor, 0.5 ya da 1mg gibi. Ancak sonraki gün sersemliğe neden olacağı için duruma bağlı denilebilir.
-
 **Henüz öncelik değil, başka zaman güncellenecek.**
+
+Güçlü bir antihistamin, ya da histamin H1 reseptörünün ters agonistidir. Serotonin reseptörleri arasından, spesifik olarak 5-HT2 reseptörlerinin ve 5-HT1A reseptörünün güçlü bir antagonistidir. Bu nedenle serotonin sendromunun tedavisinde kullanılabilmektedir. Siproheptadinin insan beyninde günde 3 defa 4mg dozunda 5-HT2 reseptörlerinin %85'ini engellediğini, ve günde 3 defa 6mg dozunda ise %95'ini engellediği raporlanmıştır. Ayrıca bu ilaç tarafından 5-HT2B reseptörünün engellenmesi spesifik olarak antimigren etkilerine katkıda bulunuyor olabilir. Bu özelliklerine ek olarak "güçlü" sayılabilecek bir muskarinik asetilkolin reseptörü antagonistidir, ki uykuya dair etkilerinin bu yolla gerçekleşmesi mümkündür.
+
+Bahsetmeye değer olarak da D2 antagonistidir, ve belirli dozlarda D1 ve D3 antagonistidir. Düşük dozlarda prolaktini engellerken, yüksek dozlarda artırmaktadır.

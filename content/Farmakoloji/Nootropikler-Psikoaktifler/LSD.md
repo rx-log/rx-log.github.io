@@ -41,4 +41,13 @@ Birincil olarak CYP2D6 enzimi tarafından metabolize edilir.
 
 - Daha önceden ilaçları kötüye kullanma geçmişi olan bir "erkeğin", kadın gibi davranmasını, giyinmesini, ve "kadın" kimliği kullanımını tetiklemiştir<sup> :D</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/26597648/">R</a>
 
+<h4 style="color:lightgreen;">Mekanistik</h4>
+
+Henüz beyin bölgeleri arasında artan/azalan bağlantılılıklardan bir sonuç çıkaramasam da, görünüşe göre genel olarak LSD; bölgeler arasındaki bağlantılılığı artırmaktadır.
+
+- Artan görsel korteks serebral kan akışı, azalan görsel korteks alfa gücü, ve büyük oranda genişlemiş/büyümüş/artmış primer görsel korteks fonksiyonel bağlantılılık profili; görsel halüsinasyonların oranları ile güçlü şekilde ilişkilendirilmiştir, bu da intrinsik beyin aktivitesinin psikedelik hâlde görsel işleme üzerinde daha büyük etki sergilediğini ima eder<sup>(böylece halüsinojenik kalitesini belirler)</sup>. Ancak LSD'nin görsel korteks üzerindeki bariz etkileri, ilacın bilinç üzerindeki diğer karakteristikleri ile kayda değer miktarda ilişkilendirilememiştir. Bunun yerine; parahipokampus ve retrosplenial korteks arasındaki azalan bağlantılılık "ego ölümü" ve "değişen anlam" oranları ile güçlü şekilde ilişkilendirilmiştir, bu da "benlik" veya "ego" ve "anlam"ı işleme korunması/sağlanması için spesifik olarak bu "devre"nin önemini vurgular. <a href="https://pubmed.ncbi.nlm.nih.gov/27071089/">R</a>
+
+- Tüm beyin çapında duyusal-somatomotor ve talamik bağlantılılığı artırırken, ilişkilendirici bağlantılılığı azaltmıştır. Ketanserin<sup>(seçici 5ht2a reseptör antagonisti, LSDnin tam tersi)</sup> ise LSDnin tüm subjektif ve nöral etkilerini tamamen engellemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/30355445/">R</a>
+
+
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
