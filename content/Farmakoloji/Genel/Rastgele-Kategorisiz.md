@@ -12,4 +12,8 @@ Adrenalektomi gerçekleştirilen sıçanlara aldosteron ve kortikosteron uygulan
 Öğrenme ve hafıza yüksekçe sinaptik plastisiteye bağlıdır, ki bu nöronlarda ve sinapslarda yapısal değişimleri içerir. NMDA reseptörleri uzun süreli güçlendirme ve uzun süreli depresyonda kritik rol oynar. Sinaptik kuvvetteki değişimler, sinaptik proteinlerin fosforilasyonu aracılığıyla regüle edilir, ki NMDA reseptörü özellikle önemlidir.
 
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC2980962/ organların ve dokuların ortalama kalori bilmem nesi işte.
+https://www.science.org/doi/10.1126/science.abe5017 insan yaşamı boyunca günlük enerji tüketimi.
+
+
 
