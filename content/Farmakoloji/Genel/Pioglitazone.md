@@ -15,7 +15,8 @@
 
 
 
-
+Pioglitazone - lobeglitazone; "takes it from visceral stores and androgenic locations to estrogenic"
+Interesting findings for trans people?
 
 
 

@@ -15,5 +15,9 @@ Adrenalektomi gerçekleştirilen sıçanlara aldosteron ve kortikosteron uygulan
 https://pmc.ncbi.nlm.nih.gov/articles/PMC2980962/ organların ve dokuların ortalama kalori bilmem nesi işte.
 https://www.science.org/doi/10.1126/science.abe5017 insan yaşamı boyunca günlük enerji tüketimi.
 
+Magnezyum gaba-pam? Spesifik olarak gaba-a pam?
 
+TrkB kaybı -> proBDNFe-dayalı hücre ölümü
 
+Lobeglitazone & pioglitazone gibi tizolidindionların(glitazonlar) yağ dağılımı üzerine etkisi.
+"redistributes adipose tissue, takes it from visceral stores and androgenic locations to estrogenic"
