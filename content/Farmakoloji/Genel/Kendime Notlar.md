@@ -5,9 +5,8 @@ https://pubmed.ncbi.nlm.nih.gov/34639267/ - Tadalafil, kas hasarı hedefleri ola
 Steroid biyosentezinin engellenmesi [[Piracetam]]ın hafıza geliştirici etkilerini baskılamıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/2137359/">R</a>
 
 Adrenalektomi gerçekleştirilen sıçanlarda [[Piracetam]], oxiracetam, aniracetam, ya da pramiracetam etkisizdi. <a href="https://doi.org/10.1016/S0166-4328(89)80098-1">R</a>
-
 Adrenalektomi gerçekleştirilen sıçanlara aldosteron ve kortikosteron uygulanması [[Piracetam]]ın hafıza geliştirici etkilerini kurtarmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/2149831/">R</a>
-
+Potansiyel piracetam-aldosteron ilişkisi??????
 
 Öğrenme ve hafıza yüksekçe sinaptik plastisiteye bağlıdır, ki bu nöronlarda ve sinapslarda yapısal değişimleri içerir. NMDA reseptörleri uzun süreli güçlendirme ve uzun süreli depresyonda kritik rol oynar. Sinaptik kuvvetteki değişimler, sinaptik proteinlerin fosforilasyonu aracılığıyla regüle edilir, ki NMDA reseptörü özellikle önemlidir.
 
@@ -21,3 +20,7 @@ TrkB kaybı -> proBDNFe-dayalı hücre ölümü
 
 Lobeglitazone & pioglitazone gibi tizolidindionların(glitazonlar) yağ dağılımı üzerine etkisi.
 "redistributes adipose tissue, takes it from visceral stores and androgenic locations to estrogenic"
+
+Kortizol-histamin-orexin ilişkisi
+
+Serebral arter tonusu-baş ağrıları ilişkisi

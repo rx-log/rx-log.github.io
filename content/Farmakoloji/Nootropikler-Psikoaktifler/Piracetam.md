@@ -1,4 +1,4 @@
-[[Nootropik]]tir. AMPA<sup>(iyonotropik glutamat reseptörü)</sup> reseptörlerinin pozitif allosterik modülatörüdür<sup>([[AMPA-PAM]])</sup><a href="https://pubmed.ncbi.nlm.nih.gov/1372342/">R</a>|<a href="https://pubmed.ncbi.nlm.nih.gov/20163115/">R</a>. Çoğunlukla kolinerjik ve glutamaterjik sinyallemeyi geliştirmesinin yanı sıra, serotonerjik, noradrenerjik ve dopaminerjik sinyallemeyi, ve kalsiyum-potasyum kanalını modüle ettiğine dair bulgular vardır. 
+[[Nootropik]]tir. Zayıf şekilde AMPA<sup>(iyonotropik glutamat reseptörü)</sup> reseptörlerinin pozitif allosterik modülatörüdür<sup>([[AMPA-PAM]])</sup><a href="https://pubmed.ncbi.nlm.nih.gov/1372342/">R</a><a href="https://pubmed.ncbi.nlm.nih.gov/20163115/">R</a>. Çoğunlukla kolinerjik ve glutamaterjik sinyallemeyi geliştirmesinin yanı sıra, serotonerjik, noradrenerjik ve dopaminerjik sinyallemeyi, ve kalsiyum-potasyum kanalını modüle ettiğine dair bulgular vardır. GABA türevi olmasına rağmen sıklıkla GABA reseptörleri ile bir etkileşime girmemesi raporlanır, ancak GABA transaminaz aktivitesini azalttığı ve beyindeki GABA içeriğini artırdığı raporlanmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/2971290/">R</a>
 
 <br>
 <h1 style="color:lightgreen;">İnsan</h1>
@@ -90,13 +90,23 @@
 
 - L-prolin<sup>(potansiyel nörotoksin, bu bağlamda amnezik olarak kullanılmıştır)</sup> salınımını azaltmıştır. <a href="https://doi.org/10.1016/0006-8993(76)90065-2">R</a>
 
+- Beta endorfin<sup>(β-Endorphin)</sup> seviyelerini kurtarmıştır, ve eroinin indüklediği apoptoza karşı nöronları korumuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/25801591/">R</a>
 
+- Oksijen/glikozdan mahrum bırakılmada/reperfüzyonda hücrelerin büyümesini desteklemiştir, apoptozu baskılamıştır, oksidatif stresi engellemiştir, ATP seviyelerini artırmıştır<sup>(mitokondriyal fonksiyonu geliştirmiştir)</sup>, ve PI3K/Akt/mTOR aksını engellemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/38842755/">R</a>
+
+- Beyinde GABA içeriğini ~%28 artırmış, GABA transaminaz<sup>(GABAyı parçalayarak metabolize etmekten sorumlu temel enzim)</sup> aktivitesini ~%40 azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/2971290/">R</a>
+	- Yukarıdaki çalışmaya zıt olarak da, beyindeki GABA içeriğini azaltmış, ve glutamat dekarboksilaz aktivitesini engellemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/7082805/">R</a>
+
+- Serebral arter tonusunu azaltmış<sup>(vazodilatasyonla sonuçlanır)</sup>, ve lokal kan akışını artırmıştır. Ek olarak GABA içeriğinde bir artış not edilmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/3556550/">R</a>
+
+9749752
+9121626
 
 [https://doi.org/10.1007/BF00783119](https://doi.org/10.1007/BF00783119 "https://doi.org/10.1007/BF00783119")
 
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
 
-- <b style="color:lightpink;">RX:</b> 15 grama kadar deneyimledim, ve dozla birlikte etkilerin doğrusal olarak arttığını gözlemledim. Benim için etkiler; inanılmaz yüksek mental akışkanlık, mental dayanıklılık, sözlü akıcılık, işleme hızı, mükemmel ruh hali, mükemmel motivasyon, idrak yeteneğinde bariz artış, ve pek ilgili olmasa da yaratıcılıkta artış. Deneyimlediklerimin hepsi yüksek derecede gerçekleşiyor, ve şu ana kadar hiçbir şekilde yan etki de deneyimlemedim. Ek olarak bahsetmeye değer olarak; göz ayrımı, renk doygunluğu/tonu gelişimi deneyimledim. Gördüğüm renkler daha canlı, ve daha "renkli" görünüyor/hissettiriyordu.
+- <b style="color:lightpink;">RX:</b> 20 grama kadar deneyimledim, ve dozla birlikte etkilerin doğrusal olarak arttığını gözlemledim. Benim için etkiler; inanılmaz yüksek mental akışkanlık, mental dayanıklılık, sözlü akıcılık, işleme hızı, mükemmel ruh hali, mükemmel motivasyon, idrak yeteneğinde bariz artış, ve pek ilgili olmasa da yaratıcılıkta artış. Deneyimlediklerimin hepsi yüksek derecede gerçekleşiyor, ve şu ana kadar hiçbir şekilde yan etki de deneyimlemedim. Ek olarak bahsetmeye değer olarak; göz ayrımı, renk doygunluğu/tonu gelişimi deneyimledim. Gördüğüm renkler daha canlı, ve daha "renkli" görünüyor/hissettiriyordu. Direkt olarak deneyimlerimin tamamını "hipomani" olarak sınıflandırabilirim.
 
 - <b style="color:lightpink;">X:</b> 
 
