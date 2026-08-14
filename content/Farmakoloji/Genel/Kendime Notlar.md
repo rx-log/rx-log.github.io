@@ -24,3 +24,40 @@ Lobeglitazone & pioglitazone gibi tizolidindionların(glitazonlar) yağ dağıl�
 Kortizol-histamin-orexin ilişkisi
 
 Serebral arter tonusu-baş ağrıları ilişkisi
+
+Laktoferrin-vazodilatasyon https://pubmed.ncbi.nlm.nih.gov/28079060/ https://pubmed.ncbi.nlm.nih.gov/19014354/
+
+https://doi.org/10.1371/journal.pone.0055030 Low-carbohydrate diets were associated with a significantly higher risk of all-cause mortality and they were not significantly associated with a risk of CVD mortality and incidence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pax's things:
+https://pubmed.ncbi.nlm.nih.gov/21255016/
+https://pubmed.ncbi.nlm.nih.gov/31680870/
+https://doi.org/10.3389/fncel.2019.00459
+https://doi.org/10.1523/ENEURO.0237-19.2019 
+- morfin, bir µ-opioid reseptör G-proteini sinyalleme yolunu aktif ederek endolizozomlarda<sup>(hücresel materyallerin taşındığı geç endozomlar ile hücresel sindirimden sorumlu lizozomların füzyonu sonucu oluşan geçici, hibrit bir organeldir. İçerdikleri asit hidrolaz enzimleri(katepsinler, nükleazlar, lipazlar) sayesinde proteine, lipite, veya kompleks yapılara dönüşmüş molekülleri en küçük yapı taşlarına(amino asitler, yağ asitleri) kadar parçalar)</sup> depolanan demirin sızıntısına yol açar.
+	- deferoksamin(deferoxamine) lizozoma giriş yapabilir ve opioidin indüklediği sinaptik plastisitedeki azalmaları tamamen azaltmıştır/hafifletmiştir.
+"Women have fewer somatostatin inhibitory interneurons in their brain"
+"trans individuals have a significantly lower somatostatin interneuron expression in the bnst compared to individuals who identify as cis"
+"-HOLY FUCK LESS NUEROPSYCHOLOGICAL DIMORPHISM"
+"Starts with less brain dimorphism which influences behavior and also makes them more sensitive to social defeat"
+"-pax, what is intelligence?
+Somatostatin overexpression and insulin supersensitivity"
+https://pubmed.ncbi.nlm.nih.gov/33178009/
+- Increases transcription of genes relevant for SST+ interneurons
+Which would matter a lot for PFC functioning
+"I just came across a study showing Somatostatin influencing Resting state connectivity of Hyperfrontal individuals"
+"insulin superexpression would coincide with overexpression of glut4 transport which would reflect in glucose metabolics between IQ's"
+https://pubmed.ncbi.nlm.nih.gov/20552044/
+https://doi.org/10.1126/sciadv.adl0030

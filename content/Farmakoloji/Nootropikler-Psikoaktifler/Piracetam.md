@@ -1,4 +1,4 @@
-[[Nootropik]]tir. Zayıf şekilde AMPA<sup>(iyonotropik glutamat reseptörü)</sup> reseptörlerinin pozitif allosterik modülatörüdür<sup>([[AMPA-PAM]])</sup><a href="https://pubmed.ncbi.nlm.nih.gov/1372342/">R</a><a href="https://pubmed.ncbi.nlm.nih.gov/20163115/">R</a>. Çoğunlukla kolinerjik ve glutamaterjik sinyallemeyi geliştirmesinin yanı sıra, serotonerjik, noradrenerjik ve dopaminerjik sinyallemeyi, ve kalsiyum-potasyum kanalını modüle ettiğine dair bulgular vardır. GABA türevi olmasına rağmen sıklıkla GABA reseptörleri ile bir etkileşime girmemesi raporlanır, ancak GABA transaminaz aktivitesini azalttığı ve beyindeki GABA içeriğini artırdığı raporlanmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/2971290/">R</a>
+[[Nootropik]]tir. Zayıf şekilde AMPA<sup>(iyonotropik glutamat reseptörü)</sup> reseptörlerinin pozitif allosterik modülatörüdür<sup>([[AMPA-PAM]])</sup><a href="https://pubmed.ncbi.nlm.nih.gov/1372342/">R</a><a href="https://pubmed.ncbi.nlm.nih.gov/20163115/">R</a>. Çoğunlukla kolinerjik ve glutamaterjik sinyallemeyi geliştirmesinin yanı sıra, opioiderjik, serotonerjik, noradrenerjik ve dopaminerjik sinyallemeyi, ve kalsiyum-potasyum kanalını modüle ettiğine dair bulgular vardır. GABA türevi olmasına rağmen sıklıkla GABA reseptörleri ile bir etkileşime girmemesi raporlanır, ancak GABA transaminaz aktivitesini azalttığı ve beyindeki GABA içeriğini artırdığı raporlanmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/2971290/">R</a>
 
 <br>
 <h1 style="color:lightgreen;">İnsan</h1>
@@ -113,4 +113,3 @@
 - <b style="color:lightpink;">Y:</b> 
 
 - <b style="color:lightpink;">Z:</b> 
-
