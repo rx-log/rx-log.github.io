@@ -5,5 +5,5 @@ Terimi literatürde ilk kullanan ve ortaya çıkaran Corneliu E. Giurgea'ya<sup>
 2. Öğrenilen davranışların ve anıların, onları bozmaya eğilimli olan koşullara<sup>(elektrokonvülsif şok, ve hipoksi gibi)</sup> karşı dirençlerini geliştirmelidir.
 3. Beyni çeşitli fiziksel ya da kimyasal yaralanmalardan korumalıdır.
 4. Tonik kortikal kontrol mekanizmalarının verimini artırmalıdır.
-5. Diğer psikotropik ilaçların alışılmış farmajolojisinden<sup>(sedasyon/uyuşma, motor uyarımı gibi)</sup> yoksun olup, çok az miktarda yan etkiye ve düşük toksisiteye sahip olmalılar.
+5. Diğer psikotropik ilaçların alışılmış farmakolojisinden<sup>(sedasyon/uyuşma, motor uyarımı gibi)</sup> yoksun olup, çok az miktarda yan etkiye ve düşük toksisiteye sahip olmalılar.
 
