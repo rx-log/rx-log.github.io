@@ -30,8 +30,22 @@ Laktoferrin-vazodilatasyon https://pubmed.ncbi.nlm.nih.gov/28079060/ https://pub
 https://doi.org/10.1371/journal.pone.0055030 Low-carbohydrate diets were associated with a significantly higher risk of all-cause mortality and they were not significantly associated with a risk of CVD mortality and incidence.
 
 
-
-
+https://pubmed.ncbi.nlm.nih.gov/28385552/
+Kortizol seviyelerini azaltmıştır? Uykuyla ilişkili stresi normalleştirebilir?
+https://pubmed.ncbi.nlm.nih.gov/36219990/ sistematik inceleme
+Tüm beyin serebral kan akışını etkilememiştir; sağlıklı yetişkinlerde inferior frontal gyrus, dorsal striatum, ve insular kortekste bölgesel serebral kan akışını artırırken, orta frontal gyrus ve hipotalamus etrafında/civarında/çevresinde azaltmıştır. Obez yetişkinler intranasal insülin uygulaması sonrası orta frontal vuruşta artmış, hipotalamik ve kortiko-limbik bölgelerde azalmış serebral kan akışı yanıtları sergilemiştir. T2D hastalarında insular kortekste , ve yaşlı yetişenlerde okipital ve talamik bölgelerde artan SKA yanıtları raporlamıştır. Sprey ayrıca hafızayı ve yürütücü fonksiyonları geliştirmiş/iyileştirmiştir. Yalnızca küçük miktarda sistemik "taşmaya" neden olmuştur, ki bu görmezden gelinebilir seviyededir.
+https://pubmed.ncbi.nlm.nih.gov/22434537/ sağlıklı insanlarda intranazal insülinin beyindeki aktiviteleri.
+https://pubmed.ncbi.nlm.nih.gov/41348591/ sağlıklı yağsız erkeklerde glikoz alımı üzerindeki etkileri. 
+https://pubmed.ncbi.nlm.nih.gov/28726200/
+Vücut ağırlığını, insülinin kandaki seviyelerini, trigliseritleri, ve atherojenik kolesterolü azaltmış, glikoz toleransını ve alımını normalleştirmiş, ve karaciğerde insülin sinyalleme sisteminin aktivitesini artırarak insülin hassasiyetini azaltmıştır.
+https://pubmed.ncbi.nlm.nih.gov/28487570/
+Açlık hissi, DMN ve hipotalamus bağlantılılık, ve periferik insülin hassasiyeti.
+https://pubmed.ncbi.nlm.nih.gov/25576060/
+Sağlıklı insanlarda hepatik enerji metabolizmasına dair etkiler raporlamıştır, ancak T2Dde bunlar sağlanamamıştır. ATP konsantrasyonu. 
+https://pubmed.ncbi.nlm.nih.gov/27883233/
+Tat alma hissiyatı veya tat duyusunu geliştirmiştir?
+https://pubmed.ncbi.nlm.nih.gov/20876713/
+Postprandiyal termojenezi geliştirmiştir?
 
 
 

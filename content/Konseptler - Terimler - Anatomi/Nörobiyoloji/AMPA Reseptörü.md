@@ -1,0 +1,1 @@
+AMPA reseptörleri, merkezi sinir sisteminde hızlı sinaptik iletimi kontrol eden/aracılık eden ve nörodejeneratif hastalıkların sinaptik patolojisinde rolü olan bir iyonotropik glutamat reseptör türüdür.
