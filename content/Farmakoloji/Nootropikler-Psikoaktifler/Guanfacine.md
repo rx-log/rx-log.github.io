@@ -43,7 +43,7 @@ Nöronal PFC ağları tarafından kalıcı aktivite ve deşarjlar, guanfasin ile
 - Çalışma belleği görevinde bilişsel performansı kayda değer miktarda geliştirmiştir, ve mekânsal çalışma belleği görevlerinin performansıyla en sıkıcı ilişkili beyin bölgesi olan dorsolateral PFCde bölgesel serebral kan akışını kayda değer miktarda artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/10942848/">R</a>
 
 
-
+Bu da deneme
 
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
 
