@@ -40,7 +40,7 @@ Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(
 
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
 
-- <b style="color:lightpink;">RX:</b> 
+- <b style="color:lightpink;">RX:</b> Çok yakında.
 
 - <b style="color:lightpink;">X:</b> 
 
