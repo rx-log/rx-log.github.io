@@ -226,7 +226,7 @@ plugins:
     options:
       links:
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
   - source: github:quartz-community/spacer
     enabled: true
     options: {}

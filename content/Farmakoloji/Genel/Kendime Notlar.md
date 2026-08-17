@@ -48,6 +48,9 @@ https://pubmed.ncbi.nlm.nih.gov/20876713/
 Postprandiyal termojenezi geliştirmiştir?
 
 
+İnsan plasenta özütü, catenin beta-1(β-Catenin) ve Wnt3a ifade seviyelerini artırmıştır, ve minoksidil ile kombinasyonunda saç-büyümesini teşvik edici aktivite raporlanmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/25787854/">R</a>
+
+
 
 
 
