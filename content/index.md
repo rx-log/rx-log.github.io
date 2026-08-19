@@ -3,6 +3,8 @@ title: rx-log
 ---
 Notlarıma hoş geldin. Genellikle nootropikler üzerine okumalar yapıyorum, keyfi olarak da ilişkili ajanları araştırıyorum. Polifarmasi tutkunuyum, sanırsam "biohacker" olarak da tanımlanabilirim. Araştırmalarımı/okumalarımı tamamen keyif-hobi üzerine devam ettiriyorum, bir getiri amacım yok.
 
+Birçok yazı henüz eksik olsa da, zamanla büyük kısmını tamamlayacağımı düşünüyorum.
+
 Güncel olarak ilgimi yoğunlaştırdığım [[Piracetam]], ve [[Psikedelikler]]e göz atabilirsin.
 
 ![[gu30jk8kfkf8b6rkdmgx5yfpcokz.webp|38]]

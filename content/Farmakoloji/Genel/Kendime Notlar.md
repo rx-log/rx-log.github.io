@@ -50,12 +50,13 @@ Postprandiyal termojenezi geliştirmiştir?
 
 İnsan plasenta özütü, catenin beta-1(β-Catenin) ve Wnt3a ifade seviyelerini artırmıştır, ve minoksidil ile kombinasyonunda saç-büyümesini teşvik edici aktivite raporlanmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/25787854/">R</a>
 
+From opioid antagonism:
+https://pubmed.ncbi.nlm.nih.gov/28461466/
+three things that spring to mind: - increased inhibition of dopamine from VTA neurons which might decrease vulnerability to social defeat stress - disinhibition of POMC neurons - KOR off-target
 
 
 
-
-
-
+Non-nutritious 0 calorie beverages replaced with water intake
 
 
 Pax's things:
@@ -65,6 +66,8 @@ https://doi.org/10.3389/fncel.2019.00459
 https://doi.org/10.1523/ENEURO.0237-19.2019 
 - morfin, bir µ-opioid reseptör G-proteini sinyalleme yolunu aktif ederek endolizozomlarda<sup>(hücresel materyallerin taşındığı geç endozomlar ile hücresel sindirimden sorumlu lizozomların füzyonu sonucu oluşan geçici, hibrit bir organeldir. İçerdikleri asit hidrolaz enzimleri(katepsinler, nükleazlar, lipazlar) sayesinde proteine, lipite, veya kompleks yapılara dönüşmüş molekülleri en küçük yapı taşlarına(amino asitler, yağ asitleri) kadar parçalar)</sup> depolanan demirin sızıntısına yol açar.
 	- deferoksamin(deferoxamine) lizozoma giriş yapabilir ve opioidin indüklediği sinaptik plastisitedeki azalmaları tamamen azaltmıştır/hafifletmiştir.
+
+
 "Women have fewer somatostatin inhibitory interneurons in their brain"
 "trans individuals have a significantly lower somatostatin interneuron expression in the bnst compared to individuals who identify as cis"
 "-HOLY FUCK LESS NUEROPSYCHOLOGICAL DIMORPHISM"
