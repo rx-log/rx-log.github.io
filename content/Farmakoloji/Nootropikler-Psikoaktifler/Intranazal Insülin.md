@@ -10,9 +10,13 @@ Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(
 
 - Hipotalamik aktiviteyle ilişkilendirildiği üzere, tüm vücut insülin hassasiyetini artırmıştır<sup>(daha çok obez olmayanlarda)</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/25028522/">R</a>
 
+- Kortizol seviyelerini azaltmıştır<sup>(yaşlılarda, genç insanlarda değil)</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/28385552/">R</a>
+
 - Doza bağlı olarak bölgesel beyin aktivitesini modüle etmiş<sup>(amigdala, hipotalamus, kaudat, üst frontal girus)?</sup>, ve nabız değişkenliğinin yüksek-frekans alanını normalleştirmiştir. 160UI en güçlü etkilere sahipti, ve bu dozda kan dolaşımına insülin "taşması" tespit edildi. <a href="https://pubmed.ncbi.nlm.nih.gov/29095982/">R</a>
 
-- Hipokampal bölgeler ve çeşitli DMN<sup>(default mode network/varsayılan durum şebekesi, birey dış dünyaya odaklanmadığında ve beyin uyanık istirahatte olduğunda aktif olmasıyla bilinir, dalıp gitme veya daydreamingde olduğu gibi)</sup> bölgeleri arasında istirahat halindeki fonksiyonel bağlılığı/bağlanırlığı artırmıştır. İstirahat halindeki bağlanırlık bilişsel performans ile ilişkilidir. Medial frontal korteks bölgesinin bağlanırlığı ise uygulama sonrası kontrol deneklerine benzerdi. <a href="https://pubmed.ncbi.nlm.nih.gov/25249577/">R</a>
+- Hipokampal bölgeler ve çeşitli DMN<sup>(default mode network/varsayılan durum şebekesi, birey dış dünyaya odaklanmadığında ve beyin uyanık istirahatte olduğunda aktif olmasıyla bilinir, dalıp gitme veya daydreamingde olduğu gibi)</sup> bölgeleri arasında istirahat halindeki fonksiyonel bağlantısallığı artırmıştır. İstirahat halindeki bağlanırlık bilişsel performans ile ilişkilidir. Medial frontal korteks bölgesinin bağlanırlığı ise uygulama sonrası kontrol deneklerine benzerdi. <a href="https://pubmed.ncbi.nlm.nih.gov/25249577/">R</a>
+
+- DMNin prefrontal bölgeleri ve hipokampus, ve hipotalamus arasındaki fonksiyonel bağlantısallığı artırmıştır. Hipokampal bağlantısallıktaki değişim visseral adipoz doku ve subjektif açlık hissi ile kayda değer miktarda ilişkilendirilmiştir. Bu bağlantısallıktaki artış, viseral adipoz doku ve açlık arasındaki ilişkiyi baskılamıştır. Ayrıca bu bağlantısallıktaki değişimin periferik insülin hassasiyetiyle önemli miktarda bir etkileşimi görülmüştür. Yalnızca yüksek periferik insülin hassasiyetine sahip katılımcılar hipotalamik fonksiyonel bağlantısallıkta bir artış sergilemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/28487570/">R</a>
 
 - Beyin enerjisini<sup>(ATP ve fosfokreatin)</sup> artırmıştır. Serebral enerji içeriği, kontrol grubunda kalori alımı ile ters orantılıydı. Uygulama sonrası kalori tüketimi azalmıştır<sup>?</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/22586589/">R</a>
 
@@ -22,6 +26,15 @@ Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(
 
 - Egzersiz; serebral glikoz metabolizmasının intranazal insüline hassasiyetini artırmaktadır<sup>(sağlıklı genç insanlar)?</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/42205008/">R</a>
 
+- Uygulamanın ilk 30 dakikasın insülin direncini artırmış, ancak geri kalan sürelerde direnci azaltmıştır. Bir hipotalamik aktivite gözlemlenmiştir, ki bu artan insülin direnciyle ilişkilendirilmiştir. Putamen, sağ insula, ve orbitofrontal korteksteki aktivite de azalan insülin direnciyle ilişkilendirilmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/22434537/">R</a>
+
+- Beyin glikoz alımında global bir azalmaya neden olmuştur<sup>?</sup>, bu etkinin derecesi visseral yağ dokusu miktarıyla ilişkiliydi. <a href="https://pubmed.ncbi.nlm.nih.gov/41348591/">R</a>
+
+- Yalnızca sağlıklı insanlarda çok kısa bir süreliğine insülin seviyelerini artırıp kan şekerini azaltmıştır. Tekrardan yalnızca sağlıklı insanlarda hepatoselüler<sup>(karaciğer hücrelerine ait)</sup> lipitleri %35 azaltırken, mutlak hepatik ATP konsantrasyonunu 3 saat sonra %18 artırmıştır. Sağlıklı insanlarda hepatik enerji metabolizması gelişirken, T2D hastalarında bu bulgular gözlemlenememiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/25576060/">R</a>
+
+- Tatma duyusu hassasiyetini geliştirmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/27883233/">R</a>
+
+- Öğün sonrası enerji tüketimini/harcamasını<sup>(yani diyetin tetiklediği termojenez)</sup> artırırken, dolaşımdaki insülin ve c-peptidi<sup>(pankreasın insülin üretimi sırasında kana salgıladığı bir protein parçası)</sup> azaltmıştır. Ayrıca serbest yağ asitleri seviyesini kısa süreliğine azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/20876713/">R</a>
 
 <br>
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
@@ -36,8 +49,12 @@ Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(
 
 - Psödoyaşlılık modelinde; kısa dönem hafızayı, yeni obje tanıma testinde tanıma hafızasını, ve korku koşullanmasında ilişkisel hafızayı geliştirmiştir. Moleküler düzeyde ise; Iba-1 ve pTBK1<sup>(bunlar sıklıkla inflamatuvar süreçlerde ortaya çıkar)</sup> ifadesindeki artışı tersine çevirerek mikroglial<sup>(merkezi sinir sistemininin birincil bağışıklık hücreleri)</sup> aktivasyonunun ve cGAS-STING yolunun sinyallemesinin<sup>(hücre içi sıvısal dnayı tespit etmek ve bir immün yanıtına neden olmak için çalışır)</sup> azalmasını/hafiflemesini öne sürmüştür, ve hipokampal BDNF<sup>(beyin türevli büyüme faktörleri, beyindeki büyüme faktörleri de diyebiliriz)</sup> seviyelerini geri kazandırmıştır/iyileştirmiştir. Kısaca; hafızayı geliştirmiş ve nöroinflamasyonu azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/41193931/">R</a>
 
+- Vücut ağırlığını, insülinin kandaki seviyelerini, trigliseritleri, ve aterojenik<sup>(ateroskleroza neden olabilen ya da destekleyen)</sup> kolesterolü azaltmış, glikoz toleransını ve alımını normalleştirmiş, ve karaciğerde insülin sinyalleme sisteminin aktivitesini artırarak insülin hassasiyetini azaltmıştır. Langherdans adacıklarının<sup>(pankreasın endokrin hücrelerini içeren bölgesi, bir kısmı insülin ve glukagon salgılar)</sup> ve beta hücrelerinin sayısında bir etkiye neden olmamıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/28726200/">R</a>
 
-Deneme 123
+
+
+
+
 
 <h1 style="color:lightgreen;">Deneyimler/Anekdot</h1>
 
