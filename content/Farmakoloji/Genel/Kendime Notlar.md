@@ -40,6 +40,7 @@ three things that spring to mind: - increased inhibition of dopamine from VTA ne
 https://pubmed.ncbi.nlm.nih.gov/36219990/ sistematik inceleme
 Tüm beyin serebral kan akışını etkilememiştir; sağlıklı yetişkinlerde inferior frontal gyrus, dorsal striatum, ve insular kortekste bölgesel serebral kan akışını artırırken, orta frontal gyrus ve hipotalamus etrafında/civarında/çevresinde azaltmıştır. Obez yetişkinler intranasal insülin uygulaması sonrası orta frontal vuruşta artmış, hipotalamik ve kortiko-limbik bölgelerde azalmış serebral kan akışı yanıtları sergilemiştir. T2D hastalarında insular kortekste , ve yaşlı yetişenlerde okipital ve talamik bölgelerde artan SKA yanıtları raporlamıştır. Sprey ayrıca hafızayı ve yürütücü fonksiyonları geliştirmiş/iyileştirmiştir. Yalnızca küçük miktarda sistemik "taşmaya" neden olmuştur, ki bu görmezden gelinebilir seviyededir.
 
+Ooferektomiyi(yumurtalıkların alınması) takiben estradiaol seviyelerinin azalmasıyla kilo kazanımı gerçekleşir.
 
 
 Non-nutritious 0 calorie beverages replaced with water intake

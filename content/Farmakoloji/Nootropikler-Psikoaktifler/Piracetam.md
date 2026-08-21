@@ -123,7 +123,7 @@ AMPA reseptörünün verimini artırmıştır. AMPA için spesifik bağlanma bö
 
 - Kokainin global DNA metilasyonu ve DNA metiltransferazlarındaki(DNMT) gen ifadesi üzerindeki etkilerini tersine çevirmiştir. Kokainin downregüle ettiği DNMT-1 ve DNMT-3A mRNA ifadesini ve upregüle ettiğini DNMT-3B ifadesini kurtarmıştır/iyileştirmiştir. Yani hipometilasyonu ve birincil astrositlerdeki genomik stabiliteyi önlemiştir/iyileştirmiştir. Güçlü nöroprotektif etkilere neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/32899583/">R</a>
 
-- β-arrestin-2 eksikliği olan bir türde 5-HT2A reseptörlerinin yoğunluğunda bir artışa neden olmuştur. <a href="https://doi.org/10.1134/S1819712423020058">R</a>
+- β-arrestin-2 eksikliği olan bir türde 5-HT2A reseptörlerinin yoğunluğunda bir artışa neden olmuştur<sup>(potansiyel opioiderjik sistem etkileşimi?)</sup>. <a href="https://doi.org/10.1134/S1819712423020058">R</a>
 
 - Kaçınma yanıtlarının sayısında artışa neden olmuştur. Kaçınma davranışının öğrenilmesine neden olmaktadır/aracılık etmektedir<sup>(kaçınma davranışı, canlının olumsuz bir uyarandan kaçınmak veya ondan korunmak için belirli bir davranışı öğrenme ve zihine kaydetme sürecini ifade eder, temel bir koşullanma ve bellek parametresidir)</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/3244203/">R</a>
 
@@ -131,7 +131,13 @@ AMPA reseptörünün verimini artırmıştır. AMPA için spesifik bağlanma bö
 
 - Sinaptik iletimi uyarmıştır. Ketamin ile birlikte uygulandığında, ketaminin bir antidepresan aktivitesini önemli miktarda uyarmıştır. CA1(Cornu Ammonis 1<sup>(mekânsal belleği işlemede, uzun vadeli bellekleri/anıları güçlendirmede rol oynayan, ve hipokampustan subikulum ve kortekse bilgi geçiren birincil içsel bir çıkış iletimi/aktarım yoludur, hipokampusun alt alanıdır)</sup>) hipokampal alanın radyal katmanında ketaminin-tetiklediği sinyaptik iletim gelişimini güçlendirmiştir/dozunu artırmıştır. Davranışsal depresyon durumunda ketaminin antidepresan aktivitesini uyarmıştır. <a href="https://doi.org/10.3897/rrpharmacology.5.35530">R</a>
 
+- Kalsiyum konsantrasyonuna bağlı olarak sinaptozomal ATPaz aktivitesinde bir azalmaya neden olmaktadır<sup>?</sup>. <a href="https://doi.org/10.1007/978-3-662-39701-5">R</a>
 
+- Hipofizdeki prolaktin hücrelerini aktif etmiştir ve tiroit foliküler hücrelerde parakristalleri<sup>(tiroit bezindeki folikül hücrelerinin sitoplazmasında veya organellerinde gözlenen, düzenli ve kristalimsi yapılardır)</sup> artırmıştır; lopcuk boyunca rastgele dağılan çok sayıda hepatositlerde düz endoplazmik retikulumu artırmış, ve glikojen içeriğini azaltmıştır<sup>?</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/2392876/">R</a>
+
+- Asetilsalisilik ile uygulanmasına antiamnetik potansiyel ifadesi eşlik etmiştir; ADP %21, KPH %23 azalmıştır. Kolajenin tetiklediği trombosit agregasyonu<sup>(trombosit adı verilen hücrelerin kanamayı durdurmak için birbirine yapışıp bir araya gelmesi süreci)</sup> doza bağlı olarak azalmıştır<sup>(56,8%, ADP (5 μmol/l)-tarafından tetiklenen 31,7%, ADP (20 μmol/l)-tarafından tetiklenen 47,3%)?</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/24013153/">R</a>
+
+- Kayda değer miktarda PLP1A243V<sup>(Pelizaeus Merzbachere neden olan bir gen mutasyonu, merkezi sinir sisteminde miyelin kılıfına zarar verir)</sup> yoğunluğunu ve membran lokalizasyonunu artırmış, ve endoplazmik retikulum stresini azaltmıştır. Ayrıca PLP1A243Vnin neden olduğu gen ifadesindeki değişimleri tersine çevirdiği gösterilmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/31110947/">R</a>
 
 
 

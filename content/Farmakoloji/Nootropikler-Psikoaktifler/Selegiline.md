@@ -37,7 +37,7 @@ Selejilin; N-desmetilselejilin, L-amfetamin, ve L-metamfetamin üretimi için me
 
 - Metabolitleri olan L-amfetamin ve L-metamfetamin, toksik bir metabolitin neden olduğu nörotoksisiteye karşı koruma sağlamıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/7931228/">R</a>
 
-- ÖMÜR UZATMIŞTIR<sup>???????</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/8423709/">R</a>
+- ÖMÜR UZATMIŞTIR<sup>???????</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/8423709/">R</a><a href="https://pubmed.ncbi.nlm.nih.gov/40816452/">R</a>
 
 - NMDAya tabii tutulmanın neden olduğu gecikmiş nörotoksisiteden dopamin nöronlarını korumuştur. NMDA reseptör bağlanması üzerinde engelleyici bir etkisi yoktur. <a href="https://pubmed.ncbi.nlm.nih.gov/8978707/">R</a>
 
@@ -50,5 +50,6 @@ Selejilin; N-desmetilselejilin, L-amfetamin, ve L-metamfetamin üretimi için me
 - Siliyer nörotrofik faktör<sup>(nöroproteksiyon, kök hücre farklılaşması ve metabolik düzenleme süreçlerinde rol oynar)</sup> gen ifadesinde artışı<sup>(motor nöron sağkalımı ve akson rejenerasyonuna, retina hücrelerinin korunmasına neden olur)</sup> uyarmıştır, ve uzantılı astrositlerin<sup>(uzantıları ile hem sinapsları yönlendirirler hem de damarları sararak kan-beyin bariyerini ve beslenmeyi kontrol ederler)</sup> toplam uzantı uzunluğunu artırmıştır<sup>(daha geniş bir alanı tarayıp kontrol ederler, doku onarımı, trofik faktör desteği ve hasara verilen bir hücresel savunma yanıtıdır, artışı sinaptik desteği artırır, kan-beyin bariyeri ve beslenmesini güçlendirir ve nöroproteksiyon sağlar)</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/8060389/">R</a>
 
 - Trofik faktör yoksunluğunun neden olduğu ölümü ~%91 azaltmıştır ve hücre sağkalımını artırmıştır. Apoptozu azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/7931312/">R</a><a href="https://pure.johnshopkins.edu/en/publications/deprenyl-increases-cell-survival-and-decreases-apoptosis-in-rat-r-3/">R</a>
+
 
 

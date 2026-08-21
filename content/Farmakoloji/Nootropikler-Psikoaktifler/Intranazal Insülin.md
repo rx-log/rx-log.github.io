@@ -51,6 +51,8 @@ Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(
 
 - Vücut ağırlığını, insülinin kandaki seviyelerini, trigliseritleri, ve aterojenik<sup>(ateroskleroza neden olabilen ya da destekleyen)</sup> kolesterolü azaltmış, glikoz toleransını ve alımını normalleştirmiş, ve karaciğerde insülin sinyalleme sisteminin aktivitesini artırarak insülin hassasiyetini azaltmıştır. Langherdans adacıklarının<sup>(pankreasın endokrin hücrelerini içeren bölgesi, bir kısmı insülin ve glukagon salgılar)</sup> ve beta hücrelerinin sayısında bir etkiye neden olmamıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/28726200/">R</a>
 
+- Propiyonik asitin(PPA) tetiklediği otizm semptomlarını büyük oranda azaltmıştır. Ayrıca beyinde MDA<sup>(malondialdehit)</sup>, IL-2, IL-17, ve TNF-αyı<sup>(sanırsam hepsi oksidatif stresin veya inflamasyonun belirteçleri)</sup> azaltma kapasitesine sahipti. Beyin sinir büyüme faktörünü(NGF) ve GDF-15i<sup>(hücresel stres regülasyon hormonu, doku yaralanmasında, inflamasyonda, mitokondriyal disfonksiyonda, ya da metabolik baskıda beyni uyarır)</sup> artırmıştır. Glial hücreleri azaltmış<sup>(nasıl olduğunu bilmiyorum ama nörokoruyucu olarak nitelendirilmiş bunun azalması)?</sup> ve Purkinje<sup>(serebellar kortekste konumlanan ve motor hareketleri, dengeyi, ve motor öğrenmeyi kontrol ve koordine eden nöronlar)</sup> ve Piramidal<sup>(piramit benzeri üçgen biçimli hücre gövdelerine sahip, temel uyarıcı nöronlar)</sup> hücreler gibi hücre türlerinin kayda değer miktarda artışını tetiklemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/39329976/">R</a>
+
 
 
 
