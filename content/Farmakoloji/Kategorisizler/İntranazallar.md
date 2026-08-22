@@ -1,0 +1,8 @@
+
+
+
+- İntranazal E2, iskemi/inme sonrası yetersiz kan tedariğine bağlı ölen beyin dokusu miktarını/hacmini(infarkt) ~%54 azaltmıştır. Beyin E2 içeriği ~5 kat artmıştır ve bu artış 120 dakika sonra bile ~2 kat idi. Diğer dokularda hiç e2 artışı gözlemlenmemesine rağmen, akciğerlerde artan e2 seviyeleri gözlemlenmiştir<sup>(ki bu beklenilir bir şeydir)?</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/32590106/">R</a>
+
+- İntranazal progesteron uygulamasından 2 saat sonra, progesteron beyin ve plazmada artan seviyelere ulaştı ve 5alfa-azaltılmış metabolitlerine ve 20alfa-dihidroprogesterona çevrildi. Beyin progesteron ve metabolitlerinin seviyeleri, karın boşluğu enjeksiyonlarına kıyasla yarı yarıyayken, 11-deoksikortikosteron ve kortikosteron ~5 kat daha azdı. Tam tersine 24 saat sonra, karın boşluğu enjeksiyonlarına kıyasla intranazal uygulama sonrası beyinde ve plazmada ölçülen progesteron daha yüksekti. İntranazal progesteron mortaliteyi(ölümlülüğü) azaltmış, motor fonksiyonları geliştirmiş, infarktı azaltmış, nöronal kaybı hafifletmiş, ve erken kan beyin bariyeri(BBB) bozulmasını azaltmıştır. Potansiyel olarak iyi bir nöroprotektif ajandır. <a href="https://pubmed.ncbi.nlm.nih.gov/26079443/">R</a>
+
+- İntranazal IGF-1, iskemi/inme sonrası infarkt hacmini ~%60, ve hemisferik şişliği ~%45 azaltmıştır. Postürel refleks, fleksör yanıt ve yapıştırıcı bant testleriyle ölçüldüğü üzere nörolojik fonksiyon da ayrıca gelişmiştir/iyileşmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/11457567/">R</a>

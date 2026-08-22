@@ -13,6 +13,9 @@ Potansiyel piracetam-aldosteron ilişkisi??????
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC2980962/ organların ve dokuların ortalama kalori bilmem nesi işte.
 https://www.science.org/doi/10.1126/science.abe5017 insan yaşamı boyunca günlük enerji tüketimi.
+Ooferektomiyi(yumurtalıkların alınması) takiben estradiaol seviyelerinin azalmasıyla kilo kazanımı gerçekleşir.
+leptin(tokluk hormonu?) yağ hücreleri tarafından üretiliyor, yemek alımı yağ kütlesinin azalacağı kadar uzun süre düşük kaldığında da leptin seviyeleri azalıyor, çünkü artık leptin üretecek daha az yağ hücresi var
+Non-nutritious 0 calorie beverages replaced with water intake
 
 Magnezyum gaba-pam? Spesifik olarak gaba-a pam?
 
@@ -40,11 +43,9 @@ three things that spring to mind: - increased inhibition of dopamine from VTA ne
 https://pubmed.ncbi.nlm.nih.gov/36219990/ sistematik inceleme
 Tüm beyin serebral kan akışını etkilememiştir; sağlıklı yetişkinlerde inferior frontal gyrus, dorsal striatum, ve insular kortekste bölgesel serebral kan akışını artırırken, orta frontal gyrus ve hipotalamus etrafında/civarında/çevresinde azaltmıştır. Obez yetişkinler intranasal insülin uygulaması sonrası orta frontal vuruşta artmış, hipotalamik ve kortiko-limbik bölgelerde azalmış serebral kan akışı yanıtları sergilemiştir. T2D hastalarında insular kortekste , ve yaşlı yetişenlerde okipital ve talamik bölgelerde artan SKA yanıtları raporlamıştır. Sprey ayrıca hafızayı ve yürütücü fonksiyonları geliştirmiş/iyileştirmiştir. Yalnızca küçük miktarda sistemik "taşmaya" neden olmuştur, ki bu görmezden gelinebilir seviyededir.
 
-Ooferektomiyi(yumurtalıkların alınması) takiben estradiaol seviyelerinin azalmasıyla kilo kazanımı gerçekleşir.
+Nikotinin; kahverengi adipoz doku üzerindeki veya adipoz dokunun kahverengileşmesi üzerindeki etkileri KORa bağlıdır. Nikotin merkezi bir mekanizma aracılığıyla beyaz adipoz dokunun kahverengileşmesini tetiklemektedir. KOR nakavtlı sıçanlarda nikotin vücut ağırlığını ve adipoziteyi azaltamamıştır ve enerji tüketimini artıramamıştır. Bu bulgular KORun, nikotinin enerji dengesi üzerinde etkiler uygulaması için gerekli olduğuna işaret etmektedir. <a href="https://pubmed.ncbi.nlm.nih.gov/31492869/">R</a>
 
-
-Non-nutritious 0 calorie beverages replaced with water intake
-
+İnsülin direnci --> kulak çınlaması?
 
 
 
