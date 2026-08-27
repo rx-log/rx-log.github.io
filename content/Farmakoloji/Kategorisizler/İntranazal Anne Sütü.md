@@ -16,5 +16,5 @@
 
 <h1 style="color:lightgreen;">Hayvan/Laboratuvar Ortamı</h1>
 
--  Siklik glisin-prolin<sup>(meme sütünün doğal bir besinidir, ve IGF-1'in fonksiyonunu regüle etmede rol oynar(cGP))</sup> mekânsal belleği geliştirmiştir; cGP uygulanan sıçanlar daha uzun, büyük ve daha fazla astrosit süreçleri, daha fazla kılcal damarlar, ve daha yüksek glutamat reseptör-1 ifadesi sergilemiştir. <a href="https://doi.org/10.1080/1028415X.2021.1980845">R</a>
+- Siklik glisin-prolin<sup>(meme sütünün doğal bir besinidir, ve IGF-1'in fonksiyonunu regüle etmede rol oynar(cGP))</sup> mekânsal belleği geliştirmiştir; cGP uygulanan sıçanlar daha uzun, büyük ve daha fazla astrosit süreçleri, daha fazla kılcal damarlar, ve daha yüksek glutamat reseptör-1 ifadesi sergilemiştir. <a href="https://doi.org/10.1080/1028415X.2021.1980845">R</a>
 

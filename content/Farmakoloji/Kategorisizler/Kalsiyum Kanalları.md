@@ -1,0 +1,2 @@
+
+- N-türündeki kalsiyum kanalları korku ve anksiyete ile ilişkilendirilen beyin bölgelerinde GABAerjik iletimi kontrol etmektedir. N-türündeki kalsiyum kanalları saldırganlık, hiperlokomosyon<sup>(hiperaktivite)</sup>, ve anksiyete ile ilişkilendirilmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/33521586/">R</a>

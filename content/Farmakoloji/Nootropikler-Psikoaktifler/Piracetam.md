@@ -105,7 +105,7 @@ AMPA reseptörünün verimini artırmıştır. AMPA için spesifik bağlanma bö
 
 - Oksijen/glikozdan mahrum bırakılmada/reperfüzyonda hücrelerin büyümesini desteklemiştir, apoptozu baskılamıştır, oksidatif stresi engellemiştir, ATP seviyelerini artırmıştır<sup>(mitokondriyal fonksiyonu geliştirmiştir)</sup>, ve PI3K/Akt/mTOR aksını engellemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/38842755/">R</a>
 
-- Beyinde GABA içeriğini ~%28 artırmış, GABA transaminaz<sup>(GABAyı parçalayarak metabolize etmekten sorumlu temel enzim)</sup> aktivitesini ~%40 azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/2971290/">R</a>
+- Beyinde GABA içeriğini ~%28 artırmış, GABA transaminaz<sup>(GABAyı parçalayarak metabolize etmekten sorumlu temel enzim)</sup> aktivitesini ~%40 azaltmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/2971290/">R</a>﻿
 	- Yukarıdaki çalışmaya zıt olarak da, beyindeki GABA içeriğini azaltmış, ve glutamat dekarboksilaz aktivitesini engellemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/7082805/">R</a>
 
 - Serebral arter tonusunu azaltmış<sup>(vazodilatasyonla sonuçlanır)</sup>, ve lokal kan akışını artırmıştır. Ek olarak GABA içeriğinde bir artış not edilmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/3556550/">R</a>

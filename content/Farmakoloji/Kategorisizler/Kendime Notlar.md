@@ -47,6 +47,22 @@ Nikotinin; kahverengi adipoz doku üzerindeki veya adipoz dokunun kahverengileş
 
 İnsülin direnci --> kulak çınlaması?
 
+TXNIP(tiyoredoksinle-etkileşime giren protein, diğer adıyla TBP2(tiyoredoksine-bağlanan protein 2), majör antioksidan protein olan tiyoredoksin ile direkt olarak etkileşime girer ve antioksidan fonksiyonu ve ifadesini engeller) ve NLRP3(NACHT-, LRR- ve pirin alanı içeren 3, doğal bağışıklı sisteminin bir bileşenidir, önemli bir bağışıklık yanıtıdır ancak aşırı aktivasyonu inflamasyona veya hücre ölümüne neden olabilmektedir) aktivasyonunun kaygılı depresyon türünde upregüle şekilde bulunmuştur. Aynı sıçanlar aşırı mitokondriyal ROT birikimi, baskılanmış PINK1/Parkin-aracılı mitofaji(adı üstünde mitokondriyal otofaji gibi bir şey, otofaji tarafından mitokondrinin seçici parçalanmasını sağlar ve böylelikle mitokondriyal bütünlüğü destekler ve ROT birikimini önler), nöronal yaralanma, ve anksiyete ve depresyon benzeri davranışlar sergilemiştir. MitoTempo(mitokondri hedefli antioksidan? Henüz tam bilgiye erişemedim) uygulaması ise; mitokondriyal ROTlerini temizleyerek, mitofajiyi kurtararak, TXNIP/NLRP3 inflamazom aktivasyonunu engelleyerek, ve nöronal apoptozu azaltarak bu patolojik değişimleri hafifletmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/42238570/">R</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
