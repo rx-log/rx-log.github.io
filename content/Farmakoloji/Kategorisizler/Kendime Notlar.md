@@ -17,7 +17,7 @@ Ooferektomiyi(yumurtalıkların alınması) takiben estradiaol seviyelerinin aza
 leptin(tokluk hormonu?) yağ hücreleri tarafından üretiliyor, yemek alımı yağ kütlesinin azalacağı kadar uzun süre düşük kaldığında da leptin seviyeleri azalıyor, çünkü artık leptin üretecek daha az yağ hücresi var
 Non-nutritious 0 calorie beverages replaced with water intake
 
-Magnezyum gaba-pam? Spesifik olarak gaba-a pam?
+Magnezyum gaba-pam? Spesifik olarak gaba-a pam? Ve oksitosin-pam?????
 
 TrkB kaybı -> proBDNFe-dayalı hücre ölümü
 
