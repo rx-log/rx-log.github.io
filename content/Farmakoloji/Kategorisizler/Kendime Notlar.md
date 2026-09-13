@@ -49,17 +49,19 @@ Nikotinin; kahverengi adipoz doku üzerindeki veya adipoz dokunun kahverengileş
 
 TXNIP(tiyoredoksinle-etkileşime giren protein, diğer adıyla TBP2(tiyoredoksine-bağlanan protein 2), majör antioksidan protein olan tiyoredoksin ile direkt olarak etkileşime girer ve antioksidan fonksiyonu ve ifadesini engeller) ve NLRP3(NACHT-, LRR- ve pirin alanı içeren 3, doğal bağışıklı sisteminin bir bileşenidir, önemli bir bağışıklık yanıtıdır ancak aşırı aktivasyonu inflamasyona veya hücre ölümüne neden olabilmektedir) aktivasyonunun kaygılı depresyon türünde upregüle şekilde bulunmuştur. Aynı sıçanlar aşırı mitokondriyal ROT birikimi, baskılanmış PINK1/Parkin-aracılı mitofaji(adı üstünde mitokondriyal otofaji gibi bir şey, otofaji tarafından mitokondrinin seçici parçalanmasını sağlar ve böylelikle mitokondriyal bütünlüğü destekler ve ROT birikimini önler), nöronal yaralanma, ve anksiyete ve depresyon benzeri davranışlar sergilemiştir. MitoTempo(mitokondri hedefli antioksidan? Henüz tam bilgiye erişemedim) uygulaması ise; mitokondriyal ROTlerini temizleyerek, mitofajiyi kurtararak, TXNIP/NLRP3 inflamazom aktivasyonunu engelleyerek, ve nöronal apoptozu azaltarak bu patolojik değişimleri hafifletmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/42238570/">R</a>
 
+Rasemik ilaç; bir molekülün 2 ayna-görüntülü formlarının eşit olarak 50:50 karışımını içeren bir farmasötik ilaç anlamına gelir. Aktif form(eutomer), karışımın bu yarısı istenilen medikal faydayı sağlar. Ayna-görüntülü form(distomer) inaktif, daha az etkili, ve bazen yan etkilerden sorumlu olabilir.
 
+Daha önce hiç Levodopa tedavisi görmemiş Parkinson hastaları daha yüksek aç-karın insülin ve HOMA-IR(insülin direnci) sergilemiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/41682701/">R</a>
 
+L-serine ve D-serine; l serine uyku için glisinden üstün olabilir.
 
+Şizofreni hastaları gaba-a a5'ten yoksun olabilir. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6455273/">R</a>
 
+Testosteron IP3 seviyelerinde bir artış üretmektedir. 
 
+AMPAR activation can contribute to hypomania via BDNF-TRKB-PLC-PKC. 
 
-
-
-
-
-
+D-ribose and disodium ATP supplementation
 
 
 

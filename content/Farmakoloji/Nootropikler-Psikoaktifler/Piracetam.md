@@ -59,7 +59,7 @@ AMPA reseptörünün verimini artırmıştır. AMPA için spesifik bağlanma bö
 
 - Düşük dozda 5-HT seviyelerini azaltmış, ve noradrenalin seviyelerini artırmıştır. Yüksek doz da tam tersini gerçekleştirmiştir. Düşük doz prostaglandin e2<sup>(PGE2)</sup> ve prostaglandin f2alfa<sup>(PGF2 alfa)</sup> seviyelerinde küçük bir artışa neden olurken, yüksek doz bariz şekilde artışa neden olmuştur. <a href="https://pubmed.ncbi.nlm.nih.gov/2606534/">R</a>
 
-- Frontal kortekste mevcut muskarinik asetilkolin reseptörlerinin sayısını artırmıştır<sup>(potansiyel upregülasyon?)</sup>. <a href="https://doi.org/10.1007/BF00735884">R</a>
+- Frontal kortekste mevcut muskarinik asetilkolin reseptörlerinin sayısını artırmıştır<sup>(potansiyel upregülasyon?)</sup>. <a href="https://pubmed.ncbi.nlm.nih.gov/3126530/">R</a>
 
 - Duyarsız halde bulunmayan mevcut muskarinik asetilkolin reseptörlerinin sayısını artırmıştır<sup>(potansiyel upregülasyon?)</sup>. <a href="https://doi.org/10.1016/0197-4580(92)90006-J">R</a>
 
@@ -139,6 +139,9 @@ AMPA reseptörünün verimini artırmıştır. AMPA için spesifik bağlanma bö
 
 - Kayda değer miktarda PLP1A243V<sup>(Pelizaeus Merzbachere neden olan bir gen mutasyonu, merkezi sinir sisteminde miyelin kılıfına zarar verir)</sup> yoğunluğunu ve membran lokalizasyonunu artırmış, ve endoplazmik retikulum stresini azaltmıştır. Ayrıca PLP1A243Vnin neden olduğu gen ifadesindeki değişimleri tersine çevirdiği gösterilmiştir. <a href="https://pubmed.ncbi.nlm.nih.gov/31110947/">R</a>
 
+- Fosfatidilinositol<sup>(pip2 gibi fosfoinositidleri oluşturmak için fosforile olur, ekstrasellüler sinyaller tarafından uyarıldığında; pip2 ip3(inositol trifosfat) ve DAGa(diasilgliserol) bölünür, ki DAG protein kinaz c aktivatörüdür)</sup> sentezini uyarmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/482348/">R</a>
+
+- IP3 salınımı ve PIP2 parçalanmasını artırmıştır. <a href="https://pubmed.ncbi.nlm.nih.gov/9890564/">R</a>
 
 
 [https://doi.org/10.1007/BF00783119](https://doi.org/10.1007/BF00783119 "https://doi.org/10.1007/BF00783119")
