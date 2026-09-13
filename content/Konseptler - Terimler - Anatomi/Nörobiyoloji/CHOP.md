@@ -1,0 +1,1 @@
+C/EBP türdeş protein, C/EBP homologous protein; programlı hücre ölümünün regülasyonunda kritik bir rol oynayan bir endoplazmik retikulum stresiyle indüklenebilen proteindir, ve [[UPR]] aktivasyonu ile ilişkilendirilmiştir.

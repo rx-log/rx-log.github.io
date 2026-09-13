@@ -5,7 +5,7 @@ Notlarıma hoş geldin. Genellikle nootropikler üzerine okumalar yapıyorum, ke
 
 Birçok yazı henüz eksik olsa da, zamanla büyük kısmını tamamlayacağımı düşünüyorum.
 
-Güncel olarak ilgimi yoğunlaştırdığım [[Piracetam]], ve [[Psikedelikler]]e göz atabilirsin.
+Güncel olarak ilgimi yoğunlaştırdığım [[Piracetam]], ve [[Sigma Reseptörleri-σ]]ne göz atabilirsin.
 
 ![[gu30jk8kfkf8b6rkdmgx5yfpcokz.webp|38]]
 

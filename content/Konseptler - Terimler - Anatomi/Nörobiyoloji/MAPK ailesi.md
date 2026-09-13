@@ -1,0 +1,18 @@
+MAPK(Mitojenle-aktif edilen protein kinaz) ailes, hücre dışı uyaranları (büyüme faktörleri, sitokinler, ozmotik stres, doku hasarı) hücre çekirdeğine ileterek transkripsiyonu, hücre proliferasyonunu, farklılaşmasını, stres yanıtını ve apoptozu yöneten evrimsel olarak korunmuş serin/treonin kinaz grubudur
+
+MAPK ailesinin temel üyeleri ERK1/2 (MAPK3/1), JNK (JNK1/2/3 veya MAPK8/9/10), p38 MAPK ($\alpha$, $\beta$, $\gamma$, $\delta$ veya MAPK14/11/12/13), ERK5 (MAPK7) ile atipik üyeler olan NLK, ERK3, ERK4 ve ERK7/8'dir.
+
+
+# JNK
+C-Jun N-terminal kinaz; proliferasyon, apoptoz, motilite, metabolizma, ve DNA onarımı gibi hücresel süreçlerde rol oynayan bir stresle-aktif olan kinaz türü olarak tanımlanır, ve UV irradyasyonu gibi hücre stresine yanıt olarak aktif olur. Disregüle olmuş JNK sinyallemesi; nörodejenerasyon, kronik inflamasyon, doğum bozuklukları, cancer, ve iskemi/reperfüzyon yaralanması gibi çeşitli bozukluklarla ilişkilendirilmiştir.
+
+<h1 style="color:lightgreen;">KOR/JNK yolu</h1>
+KOR antagonistleri kappa-opioid reseptörlerini engellemelerinin yanısıra, JNK aktivasyonu sağlayarak KOR sinyallemesini "bozmaktadır". JNK aktivasyonu KORa bağımlı bir şekilde gerçekleşmektedir. JNK hücre zarından nükleer transkripsiyon faktörlerine sinyaller göndermek için önemliyken, uzun süreli/aşırı aktivasyonu hücresel stres, nöroinflamasyon, ve hücre ölümü süreçlerini tetikler. 
+Uzun süreli JNK aktivasyonu TNF-alfa ile tetiklenen apoptozu desteklemiştir.
+Uzun süreli JNK aktivasyonu TNF-alfanın etkisini proliferatiften apoptotiğe çevirebilir.
+
+- Kısmi hepatektomiden(PH) sonra JNK aktivitesi artmıştır, gelişmiş ve uzun süreli JNK aktivasyonu ve p53 ve p21'in upregülasyonu PH tarafından tetiklenen hepatosit apoptozunda rol oynamaktadır. <a href="https://pubmed.ncbi.nlm.nih.gov/11476966/">R</a>
+
+<h1 style="color:lightgreen;">Ajanların JNK üzerindeki etkileri</h1>
+
+- NorBNI, guanidinonaltrindole, ve JDTic gibi uzun süreli seçici KOR antagonistlerinin JNK<sup>(c-Jun N-terminal kinaz)</sup> fosforilasyonunu uyardığı raporlanmıştır. Bu şekilde KOR sinyallemesini bozmaktadır. <a href="https://pubmed.ncbi.nlm.nih.gov/17702750/">R</a>

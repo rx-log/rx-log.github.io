@@ -1,0 +1,1 @@
+Initiation factor 2alpha; aktif olmuş PERK tarafından fosforile olduğunda endoplazmik retikulumdaki protein-katlanma yükünü hafifletmek için genel protein sentezini azaltan ve strese yanıt olarak hayatta kalma genlerinin transkripsiyonunu aktif eden bir proteindir

@@ -1,0 +1,6 @@
+
+# ATF4
+Activating transcription factor 4<sup>(aktive edici transkripsiyon faktörü)</sup>; ATF/CREB ailesinin bir üyesidir, entegre stress yanıtında, endoplazmik retikulum stresinde, otofajide, vemetabolizmede rol oynayan genlerin ifadesini kontrol ederek hücre hayatta kalımını ve ölümünü regüle eder, ATF4'ün protein seviyesi translasyonel/çeviri düzeyinde regülasyon<sup>(eIF2α fosforilasyonu tarafından)</sup>, epigenetik modifikasyonlar, ve stres altında translasyonel sonrası modifikasyonlar tarafından sıkıca kontrol edilir, ki bunlar kanserle, kardiyovasküler, nörodejeneratif, ve metabolik hastalıklarla ilişkilidir.
+
+# ATF6
+Activating transcription factor 4<sup>(aktive edici transkripsiyon faktörü)</sup> ATF/CREB ailesinin bir üyesidir. ERde konumlanır ve stres koşulları altında Golgi aygıtına doğru hareket eder. Orada proteaz ile parçalanmadan geçerek, transkripsiyon faktörü alanını salgılar. Bu alan daha sonra hücre çekirdeğine doğru hareket eder ve ER stresinin düzeltiminde rol oynayan genlerin transkripsiyonunu aktif eder.

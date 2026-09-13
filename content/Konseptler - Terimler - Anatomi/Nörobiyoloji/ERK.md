@@ -1,0 +1,1 @@
+Extracellular signal-regulated kinase, hücre dışı sinyalle regüle edilen kinaz; bir tür mitojenle aktif olan protein kinaz olarak tanımlanır. Hücre dışı uyarıya yanıt verir ve çeşitli hücresel aktiviteleri regüle eder; buna gen ifadesi, mitoz, diferansiyasyon/farklılaşma, hücre hayatta kalımı ya da apoptoz dahildir.

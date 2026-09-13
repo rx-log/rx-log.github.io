@@ -1,4 +1,4 @@
-Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(birkaç çalışma spesifik dozlara bağlı olarak etkilediğini raporlarken, diğer çalışmalar ise bu dozlardan daha düşük dozlarda bile etkilediğini raporlamaktadır)</sup>.
+Kan glikoz ve insülin seviyelerini kayda değer miktarda etkilememektedir<sup>(birkaç çalışma spesifik dozlara bağlı olarak etkilediğini raporlarken, diğer çalışmalar ise bu dozlardan daha düşük dozlarda bile etkilediğini raporlamaktadır)</sup>. Anekdotal verilere göre intranazal insülin bir kesimde oldukça bariz bellek gelişimlerine neden olurken, büyük bir çoğunluk uygulamanın yalnızca "çok yorgun/mental olarak yorgun" olduğunda bariz etkiler sergilediğini belirtmektedir. Bu nedenle şüpheyle yaklaşmak ve "kendi araştırmanı kendin yap" felsefesini uygulamak oldukça mantıklı olabilir.
 <br>
 <h1 style="color:lightgreen;">İnsan</h1>
 

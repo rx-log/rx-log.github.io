@@ -41,8 +41,6 @@ Sıçanlarda 5mg clenbuterol/kg uygulamasından sonra kalp hücrelerinde nekroz 
 
 Clenbuterol; 27 sağlıklı gönüllüde ve 12 Parkinson hastasında spesifik bilişsel faaliyetleri geliştirmiştir. (39213090)
 
-
-
 Clenbuterol works primarily by altering gene transcription through beta 2 adrenergic receptors, additionally enzymatic phosphorylation of hormone sensitive lipase and acetyl-coa-carboxylase
 For upregulation and resensitization, usage of ketotifen would be smart. 1mg twice a day will be enough.
 
