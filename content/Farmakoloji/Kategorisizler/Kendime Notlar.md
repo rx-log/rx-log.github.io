@@ -63,6 +63,8 @@ AMPAR activation can contribute to hypomania via BDNF-TRKB-PLC-PKC.
 
 D-ribose and disodium ATP supplementation
 
+Anabolic androgenic steroids and pacemaker current relationship
+
 
 
 
