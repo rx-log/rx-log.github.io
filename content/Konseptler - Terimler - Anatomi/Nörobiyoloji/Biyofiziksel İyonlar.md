@@ -1,0 +1,2 @@
+# Kalsiyum İyonları
+Ca2+ çeşitli hücresel olayları kontrol eden bir hücre içi ikincil mesajlayıcıdır. Hücre içi Ca2+ konsantrasyonu hücre dışı boşluktaki rezervler ve ER ve mitokondri dahil hücre içi rezervlerdeki Ca2+ tarafından sıkıcı regüle edilir. 

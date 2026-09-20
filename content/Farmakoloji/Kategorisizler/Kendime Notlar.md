@@ -65,10 +65,11 @@ D-ribose and disodium ATP supplementation
 
 Anabolic androgenic steroids and pacemaker current relationship
 
+https://pubmed.ncbi.nlm.nih.gov/31682592/ dexmed sig1r agonist
 
+Irreversibles downregulate, reversibles don't
 
-
-
+yes, KOR antagonists failed in multiple trials. That is not what this study says though. They say NOP/KOR both likely have to be inversely agonised to provide sufficient effectiveness
 
 
 
